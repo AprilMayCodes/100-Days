@@ -10,8 +10,7 @@
 I'm working through the lessons on freeCodeCamp so I'm hoping to have the Responsive Web Design and JS Projects done during this challenge. 
 Here's what I've completed: 
 
-* [Placeholderrrrr :)](#projects)
-* [Placeholder #2](#projects)
+* [Tribute Page](https://codepen.io/aprilblossoms/full/KKgZzNN)
 
 ## Journal
 
