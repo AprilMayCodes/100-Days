@@ -1,17 +1,30 @@
 # Round 1 Log
 
-**Start date**: XX/XX/XX
+**Start date**: 01/07/20
 
 **End date**: XX/XX/XX
 
 ## Goals
 
-* Goal 1
-* Goal 2
-* Goal 3
-* ...
+* Complete Responsive Web Design Certification
+* Complete JavaScript Algorithms and Data Structures Certification
+* Continue coding for an hour each day
 
-## Day 1
+## Day 1 1/7/20
+
+* Project you are working on (including link)
+* Progress today
+* Challenges you faced
+* Tasks for tomorrow
+
+<! -- ## Day 2
+
+* Project you are working on (including link)
+* Progress today
+* Challenges you faced
+* Tasks for tomorrow
+
+## Day 3
 
 * Project you are working on (including link)
 * Progress today
@@ -19,3 +32,4 @@
 * Tasks for tomorrow
 
 ...
+-->
