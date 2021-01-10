@@ -17,7 +17,7 @@
 * Challenges you faced
 * Tasks for tomorrow
 
-<! -- ## Day 2
+## Day 2
 
 * Project you are working on (including link)
 * Progress today
@@ -32,4 +32,3 @@
 * Tasks for tomorrow
 
 ...
--->
