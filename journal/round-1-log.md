@@ -1,6 +1,6 @@
 # Round 1 Log
 
-**Start date**: 01/07/20
+**Start date**: 01/09/20
 
 **End date**: XX/XX/XX
 
@@ -10,7 +10,7 @@
 * Complete JavaScript Algorithms and Data Structures Certification
 * Continue coding for an hour each day
 
-## Day 1 - 1/7/20
+## Day 1 - 1/9/20
 
 * **Project You Are Working On:** [Tribute Page](https://codepen.io/aprilblossoms/full/KKgZzNN) for the first of the FCC web design projects.
 * **Progress Today:** Redid the page so it looks more presentable, while still fulfilling the user stories
