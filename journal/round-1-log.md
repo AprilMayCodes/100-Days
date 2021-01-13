@@ -31,17 +31,17 @@ On the bright side, though, these are design issues. I understand the code to ch
 
 ## Day 3
 
-* **Project you are working on:** (including link)
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** [Product Landing Page](https://codepen.io/aprilblossoms/full/QWKVeww)
+* **Progress today:** Adjusted the Nav bar so the links grow and change color when you hover over them. Centered the header under the nav bar at the top
+* **Challenges you faced:** Spent way too much time trying to find colors that went well together, and "centering" under just the nav bar links, instead of the logo as well took some time to figure out. And honestly I'm sure there's a better way to do it than guess and check over and over but oh well. The end result looks all right.
+* **Tasks for tomorrow:** Finish the Product Landing page
 
 ## Day 4
 
-* **Project you are working on:** (including link)
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** [Product Landing Page](https://codepen.io/aprilblossoms/full/QWKVeww)
+* **Progress today:** I got it done, I guess. Put the video in a fixed position on the left under the logo so there isnt just the empty space. Adjusted the margins so that the links jump to the right areas on the page without hiding the head under the nav bar. Centered everything and changed the fonts. Not great, but not awful. I'm not doing anything else with this one
+* **Challenges you faced:** Centering everything under the right 7/8 of a page instead of the full page was a huge pain. Adjusting the top margins worked so the links jump to the right place but it adds ugly gaps that I'd prefer not be there.
+* **Tasks for tomorrow:** Personal Portfolio webpage
 
 ## Day 5
 
