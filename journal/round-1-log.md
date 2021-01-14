@@ -50,8 +50,8 @@ On the bright side, though, these are design issues. I understand the code to ch
    * on the product page: Fixed (some) alignment issues, added color and just made it look a little less boring, and removed the video (needed one to pass the assignment for FCC, but I much prefer the way it looks without)
    * On the Portfolio: Made navbar with links aligned left
    * Started playing around with colors, not sure what exactly I'm going with yet
-* **Challenges you faced:** had trouble aligning the navbar links to the right without them showing up in reverse order. honestly i fixed it by accident, i couldnt tell you which change finally had the desired result. having trouble settling on colors but i think i'm going to leave that for last.
-* **Tasks for tomorrow:** finish, hopfully, the portfolio
+* **Challenges you faced:** had trouble aligning the navbar links to the right without them showing up in reverse order. honestly I fixed it by accident, I couldnt tell you which change finally had the desired result. having trouble settling on colors but I think I'm going to leave that for last.
+* **Tasks for tomorrow:** finish, hopefully, the portfolio
 
 ## Day 6
 
