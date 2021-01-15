@@ -56,7 +56,7 @@ On the bright side, though, these are design issues. I understand the code to ch
 ## Day 6 - 1/14/21
 
 * **Project you are working on:** [Portfolio](https://codepen.io/aprilblossoms/full/zYKMBJG)
-* **Progress today:** Settled on a color scheme, got the different sections added and linked to the nav bar. Added the images for the projects section and added some hover effects to different things. I think it looks all right
+* **Progress today:** Finished it! Settled on a color scheme, got the different sections added and linked to the nav bar. Added the images for the projects section and added some hover effects to different things. I think it looks all right
 * **Challenges you faced:** God, so many. Centering the Welcome section took me way too long. I'd just wanted the name and subtitle on top of each other, but sentering one element in the div left the other one next to it instead of below it and nothing I did fixed that, so I improvised... But the result looks pretty good, I think. Sizing the images properly too a bit of time too but honestly less than I expected. 
 * **Tasks for tomorrow:** Start again with Javascript!
 
