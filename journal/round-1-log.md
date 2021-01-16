@@ -60,12 +60,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** God, so many. Centering the Welcome section took me way too long. I'd just wanted the name and subtitle on top of each other, but sentering one element in the div left the other one next to it instead of below it and nothing I did fixed that, so I improvised... But the result looks pretty good, I think. Sizing the images properly too a bit of time too but honestly less than I expected. 
 * **Tasks for tomorrow:** Start again with Javascript!
 
-## Day 7
+## Day 7 - 1/15/21
 
-* **Project you are working on:** (including link)
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** No projects yet, just reviewing JS
+* **Progress today:** Started going back over the early JS lessons.
+* **Challenges you faced:** None, really. Just how to skip the basic stuff I already know without missing small details I may have forgotten. Don't think there's a way so I'm just going over all of it. Which means probably several days of review.
+* **Tasks for tomorrow:** More JS review.
 
 ## Day 8
 
