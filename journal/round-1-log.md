@@ -67,12 +67,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** None, really. Just how to skip the basic stuff I already know without missing small details I may have forgotten. Don't think there's a way so I'm just going over all of it. Which means probably several days of review.
 * **Tasks for tomorrow:** More JS review.
 
-## Day 8
+## Day 8 - 1/16/21
 
-* **Project you are working on:** (including link)
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** More review
+* **Progress today:** Got just about through the Basic Javascript section
+* **Challenges you faced:** spent like 15 minutes trying to figure out what was wrong with something I'd written that *seemed* to be giving the right results. Turns out the code was right except I'd forgotten to change console.log() back to return once I'd fixed my mistake. Definitely felt dumb there. Now I'm stuck on updating nested arrays in an array of objects. I've tried two solutions. One solves one problem but creates another. Then solving the new problem brings the old one back. I'm not sure exactly what I'm doing wrong, but I've spent enough time on it for today, I'll come back to it in the morning.
+* **Tasks for tomorrow:** More review. Finishing this section and hopefully the ES6 section, if there's time.
 
 ## Day 9
 
