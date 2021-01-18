@@ -74,12 +74,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** spent like 15 minutes trying to figure out what was wrong with something I'd written that *seemed* to be giving the right results. Turns out the code was right except I'd forgotten to change console.log() back to return once I'd fixed my mistake. Definitely felt dumb there. Now I'm stuck on updating nested arrays in an array of objects. I've tried two solutions. One solves one problem but creates another. Then solving the new problem brings the old one back. I'm not sure exactly what I'm doing wrong, but I've spent enough time on it for today, I'll come back to it in the morning.
 * **Tasks for tomorrow:** More review. Finishing this section and hopefully the ES6 section, if there's time.
 
-## Day 9
+## Day 9 - 1/17/21
 
-* **Project you are working on:** (including link)
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** Record Collection challenge on FCC
+* **Progress today:** None! An hour working on this thing and I'm not any closer to figuring it out
+* **Challenges you faced:** Having trouble with accessing nested objects like, dynamically or whatever. Using a function to update them. I keep getting "cannot set/read property of undefined" when like... they are defined? I'm not sure what I'm doing wrong
+* **Tasks for tomorrow:** Read up on objects like, outside of the freecodecamp lessons. Theres something I'm not understanding about how they work, I'm hoping a deeper dive than the lessons provided so far will help me
 
 ## Day 10
 
