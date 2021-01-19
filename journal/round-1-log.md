@@ -81,10 +81,10 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Having trouble with accessing nested objects like, dynamically or whatever. Using a function to update them. I keep getting "cannot set/read property of undefined" when like... they are defined? I'm not sure what I'm doing wrong
 * **Tasks for tomorrow:** Read up on objects like, outside of the freecodecamp lessons. Theres something I'm not understanding about how they work, I'm hoping a deeper dive than the lessons provided so far will help me
 
-## Day 10
+## Day 10 - 1/18/2021
 
-* **Project you are working on:** (including link)
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** None at the moment
+* **Progress today:** Very little. If it can even be considered progress. I'm still stuck on this nested objects/"undefined" thing. I've watched a few videos that basically went over what I already knew and reinforced my belief that it should be working... In addition to the videos, I spent some time looking back over my old projects. Theyre still beyond me. That's what I get for my JS speedrun before quitting for several months. Anyway I'm going to ask for some help tomorrow, maybe he'll show me what it is that I'm missing here. I know there was no actual coding today so it feels a bit like cheating, but I worked towards increasing my understanding at least. 
+* **Challenges you faced:** See above.
+* **Tasks for tomorrow:** Ask Rev. 
 ...
