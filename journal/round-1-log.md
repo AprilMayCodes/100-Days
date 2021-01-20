@@ -87,4 +87,146 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Progress today:** Very little. If it can even be considered progress. I'm still stuck on this nested objects/"undefined" thing. I've watched a few videos that basically went over what I already knew and reinforced my belief that it should be working... In addition to the videos, I spent some time looking back over my old projects. Theyre still beyond me. That's what I get for my JS speedrun before quitting for several months. Anyway I'm going to ask for some help tomorrow, maybe he'll show me what it is that I'm missing here. I know there was no actual coding today so it feels a bit like cheating, but I worked towards increasing my understanding at least. 
 * **Challenges you faced:** See above.
 * **Tasks for tomorrow:** Ask Rev. 
+
+## Day 11 - 1/19/2021
+
+* **Project you are working on:** The record collection challenge on freeCodeCamp
+* **Progress today:** So as it turns out, I just had two numbers mixed up. The entire issue with the "undefined" error message was caused by me using id# 5349 instead of 5439. Unfortunately I'm now stuck on a different aspect of this challenge. It's one I think I understand how to figure out, though. So I'm hoping tomorrow is my last day stuck on this.
+* **Challenges you faced:** Checking if the 'tracks' property exists already. I figured *if ( object[id][prop] )*  would return either true or false, but *if ( object[id][prop] == false)* had unexpected results. So I tried switching it to *if ( object[id][prop] != true )* but that only fixed one part but caused a problem with another.
+* **Tasks for tomorrow:** Figure out a better way to check if the property exists. Then finish the collection challenge and move on.
+
+## Day 12 -
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 13 - 
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 14 -
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 15
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 16
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 17
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 18
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 19
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 20
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 21
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 22
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 23
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 24
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 25
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 26
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 27
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 28
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 29
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+## Day 30
+
+* **Project you are working on:** 
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:** 
+
+
 ...
