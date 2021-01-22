@@ -95,12 +95,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Checking if the 'tracks' property exists already. I figured *if ( object[id][prop] )*  would return either true or false, but *if ( object[id][prop] == false)* had unexpected results. So I tried switching it to *if ( object[id][prop] != true )* but that only fixed one part but caused a problem with another.
 * **Tasks for tomorrow:** Figure out a better way to check if the property exists. Then finish the collection challenge and move on.
 
-## Day 12 -
+## Day 12 - 1/21/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Record Collection challenge, and the rest of the Basic JS lessons
+* **Progress today:** Finally completed that challenge! Got through a few more of the lessons, watched a couple videos on recursion.
+* **Challenges you faced:** Not so much a challenge, since I was able to complete it, but is *if (!object[id]\[prop])* not the same as *if (object[id]\[prop] != true)*? I solved this one but I'm a bit confused as to why it worked. I was also a bit confused by recursion, but I think I'm starting to understand a bit better.
+* **Tasks for tomorrow:** the profile lookup challenge, and whatever other lessons there's time for.
 
 ## Day 13 - 
 
