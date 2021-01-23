@@ -102,12 +102,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Not so much a challenge, since I was able to complete it, but is *if (!object[id]\[prop])* not the same as *if (object[id]\[prop] != true)*? I solved this one but I'm a bit confused as to why it worked. I was also a bit confused by recursion, but I think I'm starting to understand a bit better.
 * **Tasks for tomorrow:** the profile lookup challenge, and whatever other lessons there's time for.
 
-## Day 13 - 
+## Day 13 - 1/22/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** basic JS section of the Javascript course
+* **Progress today:** completed the profileLookup function and some more sections about Math.random() and Math.floor()
+* **Challenges you faced:** I thought I understood recursion but this code that looks like it should be working just... isn't. Gonna watch some more videos on it and try to figure out why I'm stuck
+* **Tasks for tomorrow:** understand recursion so I can finish the countdown function and finally move on to the next JS section
 
 ## Day 14 -
 
