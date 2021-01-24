@@ -109,12 +109,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** I thought I understood recursion but this code that looks like it should be working just... isn't. Gonna watch some more videos on it and try to figure out why I'm stuck
 * **Tasks for tomorrow:** understand recursion so I can finish the countdown function and finally move on to the next JS section
 
-## Day 14 -
+## Day 14 - 1/23/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Basic JS lessons
+* **Progress today:** Completed the countdown function using recursion, watched more videos on recursion
+* **Challenges you faced:** creating a recursive function that lists a range of numbers. I keep thinking I have recursion down, just to completely lose it again.
+* **Tasks for tomorrow:** Finish this function. I'm on the last of the basic JS challenges. 
 
 ## Day 15
 
