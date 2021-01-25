@@ -116,12 +116,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** creating a recursive function that lists a range of numbers. I keep thinking I have recursion down, just to completely lose it again.
 * **Tasks for tomorrow:** Finish this function. I'm on the last of the basic JS challenges. 
 
-## Day 15
+## Day 15 - 1/24/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Range of numbers function using recursion
+* **Progress today:** Finally got it done!
+* **Challenges you faced:** I really felt like i understood the concept of recursion but I was struggling when it came to what was being returned, how to store that info into an array without the array changing when the function is called again, etc
+* **Tasks for tomorrow:** Move on to the ES6 module
 
 ## Day 16
 
