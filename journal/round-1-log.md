@@ -123,12 +123,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** I really felt like i understood the concept of recursion but I was struggling when it came to what was being returned, how to store that info into an array without the array changing when the function is called again, etc
 * **Tasks for tomorrow:** Move on to the ES6 module
 
-## Day 16
+## Day 16 - 1/25/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** ES6 section on FreeCodeCamp
+* **Progress today:** Got about halfway through this section. A lot of this is coming back to me really easily.
+* **Challenges you faced:** I'm stuck on getters and setters. This is something that I'm struggling a bit to understand, but I remember that I had trouble understanding them last time too, so Im not letting that discourage me.
+* **Tasks for tomorrow:** Finish the ES6 section and get started on the next one.
 
 ## Day 17
 
