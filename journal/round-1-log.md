@@ -130,12 +130,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** I'm stuck on getters and setters. This is something that I'm struggling a bit to understand, but I remember that I had trouble understanding them last time too, so Im not letting that discourage me.
 * **Tasks for tomorrow:** Finish the ES6 section and get started on the next one.
 
-## Day 17
+## Day 17 - 1/26/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** ES6 section
+* **Progress today:** Finished it. Realized the reason I'd been struggling with getters and setters is that I'd been thinking about them way too hard. It's way more straightforward than I was making it out to be, and that had me stuck on a challenge for a good 10 minutes. But! I got it figured out, and completed the rest of this section.
+* **Challenges you faced:** There was that challenge I was stuck on, but that wasn't too bad. To be honest though, I did stop after 45 minutes because the next section is Regex and I absolutely hated this section. Not at all looking forward to picking this back up, so I'm leaving it for another day
+* **Tasks for tomorrow:** ugh... start the regex section
 
 ## Day 18
 
