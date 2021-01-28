@@ -137,12 +137,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** There was that challenge I was stuck on, but that wasn't too bad. To be honest though, I did stop after 45 minutes because the next section is Regex and I absolutely hated this section. Not at all looking forward to picking this back up, so I'm leaving it for another day
 * **Tasks for tomorrow:** ugh... start the regex section
 
-## Day 18
+## Day 18 - 1/27/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Regex lessons
+* **Progress today:** Got a few of the exercises done and honestly I can't remember why I hated them so much. It's all broken down, at least so far, in a way that's really easy to understand. And I'm going through them slower now, to really retain the information.
+* **Challenges you faced:** I also logged into codewars hoping to do some of the challenges on there but they quickly ventured back into stuff I don't remember so I think I'll have to wait til I've done a bit more of the JS lessons before I can start those. I'd like to be able to work on that along with my lessons though.
+* **Tasks for tomorrow:** More regex lessons
 
 ## Day 19
 
