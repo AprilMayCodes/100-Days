@@ -144,19 +144,19 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** I also logged into codewars hoping to do some of the challenges on there but they quickly ventured back into stuff I don't remember so I think I'll have to wait til I've done a bit more of the JS lessons before I can start those. I'd like to be able to work on that along with my lessons though.
 * **Tasks for tomorrow:** More regex lessons
 
-## Day 19
+## Day 19 - 1/29/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Regex lessons
+* **Progress today:** Got some more of the exercises done
+* **Challenges you faced:** I'm really just struggling with like. Idk, maybe I'm just trying to do too much when I'm tired but I'm having trouble remembering what each symbol does like, as soon as I move on to the next challenge. Or mixing up what they do. I'm gonna take a break from the regex for a bit and work on something else tomorrow I think.
+* **Tasks for tomorrow:** Start a different section
 
-## Day 20
+## Day 20 - 1/30/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Following along with [this](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=335s) javascript game tutorial,working on the Memory Game
+* **Progress today:** Followed along with the video to make the game. No actual original code today, I just focused on understanding what she was doing and why.
+* **Challenges you faced:** I havent done a lot of like, JS and HTML together. So I'm not used to like, querySelector and addEventListener and stuff like that. Most of it becomes obvious pretty quickly, but I want to start working on projects that require both, so I can get more experience with like the actual application of Javascript outside of just the challenges on freeCodeCamp
+* **Tasks for tomorrow:** Styling the memory game
 
 ## Day 21
 
