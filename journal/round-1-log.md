@@ -158,12 +158,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** I havent done a lot of like, JS and HTML together. So I'm not used to like, querySelector and addEventListener and stuff like that. Most of it becomes obvious pretty quickly, but I want to start working on projects that require both, so I can get more experience with like the actual application of Javascript outside of just the challenges on freeCodeCamp
 * **Tasks for tomorrow:** Styling the memory game
 
-## Day 21
+## Day 21 - 1/31/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** A simple browser math game, using JS and HTML
+* **Progress today:** It's something. Clicking "start game" generates a randum equation and leaves a space to input an answer. Clicking enter returns whether you were right or not. It's completely style-less right now. But, it's a whole functioning thing, with code I wrote myself instead of following a tutorial. I'm excited.
+* **Challenges you faced:** It took me forever to figure out how to access the input, to check if the answer was correct. I'm also not sure how to, like, allow it to reset. Right now it only runs once. Clicking start game a second time won't generate a new problem.
+* **Tasks for tomorrow:** Figure out how to add a "new game" sort of function. Or maybe just have it automatically create a new problem once the first one is solved.
 
 ## Day 22
 
