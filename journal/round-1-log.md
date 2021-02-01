@@ -165,12 +165,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** It took me forever to figure out how to access the input, to check if the answer was correct. I'm also not sure how to, like, allow it to reset. Right now it only runs once. Clicking start game a second time won't generate a new problem.
 * **Tasks for tomorrow:** Figure out how to add a "new game" sort of function. Or maybe just have it automatically create a new problem once the first one is solved.
 
-## Day 22
+## Day 22 - 02/01/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Math Game
+* **Progress today:** There's a start button that covers the page now, that's hidden once you start the game. Added images and a hint button, to show the images when clicked. Added a reset button that clears the screen and generates a new problem. Um, a lot more little things. Chose a font I liked and started adding some styling, but very little so far.
+* **Challenges you faced:** As always I'm struggling with centering things, and getting the width and height right. It took me a minute to figure out how to add in the images, but I like how it turned out. 
+* **Tasks for tomorrow:** Mess around some more with the buttons and when they're displayed/hidden. Maybe have it throw an error if you hit enter without entering a number? Also find a way to include subtraction as long as x > y.
 
 ## Day 23
 
