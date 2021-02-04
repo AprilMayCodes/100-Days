@@ -172,19 +172,19 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** As always I'm struggling with centering things, and getting the width and height right. It took me a minute to figure out how to add in the images, but I like how it turned out. 
 * **Tasks for tomorrow:** Mess around some more with the buttons and when they're displayed/hidden. Maybe have it throw an error if you hit enter without entering a number? Also find a way to include subtraction as long as x > y.
 
-## Day 23
+## Day 23 - 02/02/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Math Game
+* **Progress today:** Basically none. I spent a lot of time figuring out what *wouldn't* work, so there's some progress in that, right? But, that's how I spent all my time so, as far as actual measurable progress on the game, no, I didn't make any.
+* **Challenges you faced:** I wanted to add several images based on the numbers being added, like basically insert the picture x times, then the plus symbol, then the first picture again y times. But then I wanted that to be cleared once The equation was reset. I was trying to use appendChild() but I could only get that to insert one picture. 
+* **Tasks for tomorrow:** Figure something out for the images, and then do some more work with the css
 
-## Day 24
+## Day 24 - 02/03/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Math Game
+* **Progress today:** So much! I added subtraction, so it'll be either plus or minus randomly, and will show the bigger number first so that the answer is never a negative number. Fixed the centering issue with the buttons, and made some progress getting the images showing up where and when I want them to. 
+* **Challenges you faced:** Struggling with margins for the form. I'm missing something, I can't get rid of the gap between everything.
+* **Tasks for tomorrow:** Fix the image issue, so that if the right one shows up first (had 6-4 come up but the 4 image appeared first). Then change the results display
 
 ## Day 25
 
