@@ -186,12 +186,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Struggling with margins for the form. I'm missing something, I can't get rid of the gap between everything.
 * **Tasks for tomorrow:** Fix the image issue, so that if the right one shows up first (had 6-4 come up but the 4 image appeared first). Then change the results display
 
-## Day 25
+## Day 25 - 02/05/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Math Game for a bit, then just review
+* **Progress today:** On the game, I fixed the issue where the images weren't necessarily corresponding to the numbers. That was easy enough. Then I just did some review with the Grasshopper app on my phone
+* **Challenges you faced:** None, really. It was a boring review day
+* **Tasks for tomorrow:** Get coding in earlier in the day so I can actually work on it instead of having to try to squeeze it in between calls at work. Ope.
 
 ## Day 26
 
