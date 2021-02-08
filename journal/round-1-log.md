@@ -193,19 +193,19 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** None, really. It was a boring review day
 * **Tasks for tomorrow:** Get coding in earlier in the day so I can actually work on it instead of having to try to squeeze it in between calls at work. Ope.
 
-## Day 26
+## Day 26 - 02/06/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Completing the projects on the Sololearn app for the js certificate
+* **Progress today:** completed 5 of the 6 Javascript projects on the Sololearn app. (That sounds like a lot but they were surprisingly simple and straightforward).
+* **Challenges you faced:** I was stuck for an embarrassingly long time because I guess I forgot that the condition in for loops doesn't have to be based on the.. iterator? Idk the term. So... *for(let i=0; [condition]; i++)* that condition doesn't have to check the value of i, it can be based on other variables. Which should be obvious but man it had me stuck.
+* **Tasks for tomorrow:** work on the final "words" project and then do more of the js challenges. (I suck at finding time during the day. I'll be back to work on the math game when I'm off on Wed lol)
 
-## Day 27
+## Day 27 - 02/07/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Math Game
+* **Progress today:** Some basic styling stuff. Changed the position of the Next Round button, to replace the Enter button once a correct answer's been entered. Changed the wrong answer message to "Sorry, try again" and removed the "Next Round" prompt until the correct answer is put in.
+* **Challenges you faced:** Found a bug where sometimes the "difference" function which should be pretty straightforward, sometimes wants the sum instead. Only sometimes. I'm not sure what's causing it to mess up. The addition seems to be working fine, it only glitches when it's subtraction. Also found a bug that caused 9-10 to come up. The problems should only ever have the bigger number listed first so that the answer is never a negative number. Strangly enough, the answer it was looking for was 1, so it was calculating 10-9 but it just didn't create the right string.
+* **Tasks for tomorrow:** Work on refactoring. I've been kind of adding things as I think of them which has led to a jumbled mess of code. I think some refactoring will help me find the source of the problems, as well as make the code more readable.
 
 ## Day 28
 
