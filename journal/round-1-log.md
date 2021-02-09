@@ -207,12 +207,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Found a bug where sometimes the "difference" function which should be pretty straightforward, sometimes wants the sum instead. Only sometimes. I'm not sure what's causing it to mess up. The addition seems to be working fine, it only glitches when it's subtraction. Also found a bug that caused 9-10 to come up. The problems should only ever have the bigger number listed first so that the answer is never a negative number. Strangly enough, the answer it was looking for was 1, so it was calculating 10-9 but it just didn't create the right string.
 * **Tasks for tomorrow:** Work on refactoring. I've been kind of adding things as I think of them which has led to a jumbled mess of code. I think some refactoring will help me find the source of the problems, as well as make the code more readable.
 
-## Day 28
+## Day 28 - 02/08/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Math Game
+* **Progress today:**  Fixed the bugs that I found yesterday. Added comments to the javascript, explaining what is where and why, to make it easier to understand.
+* **Challenges you faced:** Took me a minute to find the source of the bug that was wanting a wrong answer when some equations came up. It wasn’t that it was expecting a wrong answer some of the time, it’s that the equations happened to match the expected answer some of the time. But the answer itself was never changing from the first one
+* **Tasks for tomorrow:** Add the streak counter, and then work on css. Style the buttons and add some color
 
 ## Day 29
 
