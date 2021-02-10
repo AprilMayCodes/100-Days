@@ -22,7 +22,7 @@
 
 ## Day 2 - 1/10/21
  Another one down! One more project until I get the Web Design certification.
- 
+
 * **Project you are working on:** [Survey Page](https://codepen.io/aprilblossoms/full/BaLORmw) the second of the FCC web design projects.
 * **Progress today:** Built the survey page
 * **Challenges you faced:** Getting the colors right. Honestly it's not the *best* it could be, right now. I'd wanted black text but that blended in with the background image too much so I changed it to a light colored text, but it still feels like it might not be all that readable.. Ugh.
@@ -57,7 +57,7 @@ On the bright side, though, these are design issues. I understand the code to ch
 
 * **Project you are working on:** [Portfolio](https://codepen.io/aprilblossoms/full/zYKMBJG)
 * **Progress today:** Finished it! Settled on a color scheme, got the different sections added and linked to the nav bar. Added the images for the projects section and added some hover effects to different things. I think it looks all right
-* **Challenges you faced:** God, so many. Centering the Welcome section took me way too long. I'd just wanted the name and subtitle on top of each other, but sentering one element in the div left the other one next to it instead of below it and nothing I did fixed that, so I improvised... But the result looks pretty good, I think. Sizing the images properly too a bit of time too but honestly less than I expected. 
+* **Challenges you faced:** God, so many. Centering the Welcome section took me way too long. I'd just wanted the name and subtitle on top of each other, but sentering one element in the div left the other one next to it instead of below it and nothing I did fixed that, so I improvised... But the result looks pretty good, I think. Sizing the images properly too a bit of time too but honestly less than I expected.
 * **Tasks for tomorrow:** Start again with Javascript!
 
 ## Day 7 - 1/15/21
@@ -84,9 +84,9 @@ On the bright side, though, these are design issues. I understand the code to ch
 ## Day 10 - 1/18/2021
 
 * **Project you are working on:** None at the moment
-* **Progress today:** Very little. If it can even be considered progress. I'm still stuck on this nested objects/"undefined" thing. I've watched a few videos that basically went over what I already knew and reinforced my belief that it should be working... In addition to the videos, I spent some time looking back over my old projects. Theyre still beyond me. That's what I get for my JS speedrun before quitting for several months. Anyway I'm going to ask for some help tomorrow, maybe he'll show me what it is that I'm missing here. I know there was no actual coding today so it feels a bit like cheating, but I worked towards increasing my understanding at least. 
+* **Progress today:** Very little. If it can even be considered progress. I'm still stuck on this nested objects/"undefined" thing. I've watched a few videos that basically went over what I already knew and reinforced my belief that it should be working... In addition to the videos, I spent some time looking back over my old projects. Theyre still beyond me. That's what I get for my JS speedrun before quitting for several months. Anyway I'm going to ask for some help tomorrow, maybe he'll show me what it is that I'm missing here. I know there was no actual coding today so it feels a bit like cheating, but I worked towards increasing my understanding at least.
 * **Challenges you faced:** See above.
-* **Tasks for tomorrow:** Ask Rev. 
+* **Tasks for tomorrow:** Ask Rev.
 
 ## Day 11 - 1/19/2021
 
@@ -114,7 +114,7 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Project you are working on:** Basic JS lessons
 * **Progress today:** Completed the countdown function using recursion, watched more videos on recursion
 * **Challenges you faced:** creating a recursive function that lists a range of numbers. I keep thinking I have recursion down, just to completely lose it again.
-* **Tasks for tomorrow:** Finish this function. I'm on the last of the basic JS challenges. 
+* **Tasks for tomorrow:** Finish this function. I'm on the last of the basic JS challenges.
 
 ## Day 15 - 1/24/2021
 
@@ -169,20 +169,20 @@ On the bright side, though, these are design issues. I understand the code to ch
 
 * **Project you are working on:** Math Game
 * **Progress today:** There's a start button that covers the page now, that's hidden once you start the game. Added images and a hint button, to show the images when clicked. Added a reset button that clears the screen and generates a new problem. Um, a lot more little things. Chose a font I liked and started adding some styling, but very little so far.
-* **Challenges you faced:** As always I'm struggling with centering things, and getting the width and height right. It took me a minute to figure out how to add in the images, but I like how it turned out. 
+* **Challenges you faced:** As always I'm struggling with centering things, and getting the width and height right. It took me a minute to figure out how to add in the images, but I like how it turned out.
 * **Tasks for tomorrow:** Mess around some more with the buttons and when they're displayed/hidden. Maybe have it throw an error if you hit enter without entering a number? Also find a way to include subtraction as long as x > y.
 
 ## Day 23 - 02/02/2021
 
 * **Project you are working on:** Math Game
 * **Progress today:** Basically none. I spent a lot of time figuring out what *wouldn't* work, so there's some progress in that, right? But, that's how I spent all my time so, as far as actual measurable progress on the game, no, I didn't make any.
-* **Challenges you faced:** I wanted to add several images based on the numbers being added, like basically insert the picture x times, then the plus symbol, then the first picture again y times. But then I wanted that to be cleared once The equation was reset. I was trying to use appendChild() but I could only get that to insert one picture. 
+* **Challenges you faced:** I wanted to add several images based on the numbers being added, like basically insert the picture x times, then the plus symbol, then the first picture again y times. But then I wanted that to be cleared once The equation was reset. I was trying to use appendChild() but I could only get that to insert one picture.
 * **Tasks for tomorrow:** Figure something out for the images, and then do some more work with the css
 
 ## Day 24 - 02/03/2021
 
 * **Project you are working on:** Math Game
-* **Progress today:** So much! I added subtraction, so it'll be either plus or minus randomly, and will show the bigger number first so that the answer is never a negative number. Fixed the centering issue with the buttons, and made some progress getting the images showing up where and when I want them to. 
+* **Progress today:** So much! I added subtraction, so it'll be either plus or minus randomly, and will show the bigger number first so that the answer is never a negative number. Fixed the centering issue with the buttons, and made some progress getting the images showing up where and when I want them to.
 * **Challenges you faced:** Struggling with margins for the form. I'm missing something, I can't get rid of the gap between everything.
 * **Tasks for tomorrow:** Fix the image issue, so that if the right one shows up first (had 6-4 come up but the 4 image appeared first). Then change the results display
 
@@ -204,7 +204,7 @@ On the bright side, though, these are design issues. I understand the code to ch
 
 * **Project you are working on:** Math Game
 * **Progress today:** Some basic styling stuff. Changed the position of the Next Round button, to replace the Enter button once a correct answer's been entered. Changed the wrong answer message to "Sorry, try again" and removed the "Next Round" prompt until the correct answer is put in.
-* **Challenges you faced:** Found a bug where sometimes the "difference" function which should be pretty straightforward, sometimes wants the sum instead. Only sometimes. I'm not sure what's causing it to mess up. The addition seems to be working fine, it only glitches when it's subtraction. Also found a bug that caused 9-10 to come up. The problems should only ever have the bigger number listed first so that the answer is never a negative number. Strangly enough, the answer it was looking for was 1, so it was calculating 10-9 but it just didn't create the right string.
+* **Challenges you faced:** Found a bug where sometimes the "difference" function which should be pretty straightforward, sometimes wants the sum instead. Only sometimes. I'm not sure what's causing it to mess up. The addition seems to be working fine, it only glitches when it's subtraction. Also found a bug that caused 9-10 to come up. The problems should only ever have the bigger number listed first so that the answer is never a negative number. Strangely enough, the answer it was looking for was 1, so it was calculating 10-9 but it just didn't create the right string.
 * **Tasks for tomorrow:** Work on refactoring. I've been kind of adding things as I think of them which has led to a jumbled mess of code. I think some refactoring will help me find the source of the problems, as well as make the code more readable.
 
 ## Day 28 - 02/08/2021
@@ -214,19 +214,332 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Took me a minute to find the source of the bug that was wanting a wrong answer when some equations came up. It wasn’t that it was expecting a wrong answer some of the time, it’s that the equations happened to match the expected answer some of the time. But the answer itself was never changing from the first one
 * **Tasks for tomorrow:** Add the streak counter, and then work on css. Style the buttons and add some color
 
-## Day 29
+## Day 29 - 02/09/2021
 
-* **Project you are working on:** 
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Project you are working on:** Learning to use Github
+* **Progress today:** Created Repository for the [Math-Game](https://github.com/AprilBlossoms/Math-Game) and linked to the game itself)[https://aprilblossoms.github.io/Math-Game/]
+* **Challenges you faced:** Being intimidated. Github intimidates me. I'm slowly working past that.
+* **Tasks for tomorrow:** Finish the game! Add the streak counter, then make everything look pretty
 
 ## Day 30
 
-* **Project you are working on:** 
+* **Project you are working on:**
 * **Progress today:**
 * **Challenges you faced:**
-* **Tasks for tomorrow:** 
+* **Tasks for tomorrow:**
 
+## Day 31
 
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 32
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 33
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 34
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 35
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 36
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 37
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 38
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 39
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 40
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 41
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 42
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 43
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 44
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 45
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 46
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 47
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 48
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 49
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 50
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 51
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 52
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 53
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 54
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 55
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 56
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 57
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 58
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 59
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 60
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 61
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 62
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 63
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 64
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 65
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 66
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 67
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 68
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 69
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 70
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 71
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 72
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 73
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 74
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
+
+## Day 75
+
+* **Project you are working on:**
+* **Progress today:**
+* **Challenges you faced:**
+* **Tasks for tomorrow:**
 ...
