@@ -217,7 +217,7 @@ On the bright side, though, these are design issues. I understand the code to ch
 ## Day 29 - 02/09/2021
 
 * **Project you are working on:** Learning to use Github
-* **Progress today:** Created Repository for the [Math-Game](https://github.com/AprilBlossoms/Math-Game) and linked to the (game itself)[https://aprilblossoms.github.io/Math-Game/]
+* **Progress today:** Created Repository for the [Math-Game](https://github.com/AprilBlossoms/Math-Game) and linked to the [game itself](https://aprilblossoms.github.io/Math-Game/)
 * **Challenges you faced:** Being intimidated. Github intimidates me. I'm slowly working past that.
 * **Tasks for tomorrow:** Finish the game! Add the streak counter, then make everything look pretty
 
