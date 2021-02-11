@@ -221,12 +221,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Being intimidated. Github intimidates me. I'm slowly working past that.
 * **Tasks for tomorrow:** Finish the game! Add the streak counter, then make everything look pretty
 
-## Day 30
+## Day 30 - 02/10/2021
 
-* **Project you are working on:**
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/) 
+* **Progress today:** Added player name prompt and a "congratulations {player name}" screen once the game is completed. A progress bar at the top that completes the game after 10 correct answers. Lots of styling stuff. Got images and a background, and finally figured out how to fix the spacing issues I was having trouble with.
+* **Challenges you faced:** Figuring out how to make the image move took me a minute. And the initial method I used to fix the spacing completely ruined the display of the equation so I had to find a different way to do that. Most of the issues I had today centered around.. uh, centering things lol, and just positioning them in general. But I think I have a better understanding of that now. 
+* **Tasks for tomorrow:** Style the buttons that I've been putting off since I started this project.
 
 ## Day 31
 
