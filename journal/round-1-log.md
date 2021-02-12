@@ -223,17 +223,17 @@ On the bright side, though, these are design issues. I understand the code to ch
 
 ## Day 30 - 02/10/2021
 
-* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/) 
+* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/)
 * **Progress today:** Added player name prompt and a "congratulations {player name}" screen once the game is completed. A progress bar at the top that completes the game after 10 correct answers. Lots of styling stuff. Got images and a background, and finally figured out how to fix the spacing issues I was having trouble with.
-* **Challenges you faced:** Figuring out how to make the image move took me a minute. And the initial method I used to fix the spacing completely ruined the display of the equation so I had to find a different way to do that. Most of the issues I had today centered around.. uh, centering things lol, and just positioning them in general. But I think I have a better understanding of that now. 
+* **Challenges you faced:** Figuring out how to make the image move took me a minute. And the initial method I used to fix the spacing completely ruined the display of the equation so I had to find a different way to do that. Most of the issues I had today centered around.. uh, centering things lol, and just positioning them in general. But I think I have a better understanding of that now.
 * **Tasks for tomorrow:** Style the buttons that I've been putting off since I started this project.
 
-## Day 31
+## Day 31 - 02/11/2021
 
-* **Project you are working on:**
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/)
+* **Progress today:** Added autofocus on the inputs. Made a lot of style changes, added some background color to improve readability. Changed the progress bar to be based on % rather than px.  
+* **Challenges you faced:** Figuring out how to change the focus, and make it constantly on the input except at the start page.
+* **Tasks for tomorrow:** Refactoring
 
 ## Day 32
 

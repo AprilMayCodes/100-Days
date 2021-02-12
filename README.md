@@ -7,17 +7,18 @@
 * Code a minimum of one hour each day for the next 100 days.
 
 ## Projects
-I'm working through the lessons on freeCodeCamp so I'm hoping to have the Responsive Web Design and JS Projects done during this challenge. 
-Here's what I've completed: 
+I'm working through the lessons on freeCodeCamp so I'm hoping to have the Responsive Web Design and JS Projects done during this challenge.
+Here's what I've completed:
 
 * [Tribute Page](https://codepen.io/aprilblossoms/full/KKgZzNN)
 * [Survey Page](https://codepen.io/aprilblossoms/full/BaLORmw)
 * [Product Landing Page](https://codepen.io/aprilblossoms/full/rNMQWeJ)
 * [Portfolio](https://codepen.io/aprilblossoms/full/zYKMBJG)
+* [Math Game](https://aprilblossoms.github.io/Math-Game/)
 
 ## Journal
 
-You can follow my progress through the challenge: 
+You can follow my progress through the challenge:
 
 * [Journal](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-1-log.md)
 * [Blog](https://aprilmayblossoms.tumblr.com/100Days)
