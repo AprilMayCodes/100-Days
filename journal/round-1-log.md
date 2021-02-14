@@ -235,12 +235,12 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Figuring out how to change the focus, and make it constantly on the input except at the start page.
 * **Tasks for tomorrow:** Refactoring
 
-## Day 32
+## Day 32 02/13/2021
 
-* **Project you are working on:**
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/)
+* **Progress today:** No changes as far asc functionality goes. I'm working on refactoring. I've combined the Start page and the Congratulations page with the new game prompt into one, but I'm not sure if that's actually going to be more efficient, to change the text that's displayed, as opposed to just having completely seperate elements. I could maybe put the form tag around the whole thing, so I don't have the need for the second button.. I'm still toying with it, we'll see. Anyway, I did this in a new branch so that I can mess around with it without screwing up the real game. Also so I can get used to how github works. It's very intimidating for me still.
+* **Challenges you faced:** I didn't realize how much my poor naming skills would come back to bite me in the ass. I'm so grateful for the "find" option in atom because when I decided to start renaming things to be more organized, I didn't think about how much scavenger hunt it would become to update that particular name *everywhere* in the file. Also, I suck at naming. Which seems like a minor problem but I keep being unsure. Do I call the input player-name because that's the information it'll be getting? No, should it be player-name-prompt because the space is only the prompt and whats entered is the player name? Maybe I'm overcomplicating things.
+* **Tasks for tomorrow:** Decide on a way to set up the start/new game pages, and then start styling the buttons.
 
 ## Day 33
 
