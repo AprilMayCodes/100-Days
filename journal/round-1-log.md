@@ -217,37 +217,37 @@ On the bright side, though, these are design issues. I understand the code to ch
 ## Day 29 - 02/09/2021
 
 * **Project you are working on:** Learning to use Github
-* **Progress today:** Created Repository for the [Math-Game](https://github.com/AprilBlossoms/Math-Game) and linked to the [game itself](https://aprilblossoms.github.io/Math-Game/)
+* **Progress today:** Created Repository for the [Math Game](https://github.com/AprilBlossoms/Math-Game) and linked to the [game itself](https://aprilblossoms.github.io/Math-Game/)
 * **Challenges you faced:** Being intimidated. Github intimidates me. I'm slowly working past that.
 * **Tasks for tomorrow:** Finish the game! Add the streak counter, then make everything look pretty
 
 ## Day 30 - 02/10/2021
 
-* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/)
+* **Project you are working on:** [Math Game](https://aprilblossoms.github.io/Math-Game/)
 * **Progress today:** Added player name prompt and a "congratulations {player name}" screen once the game is completed. A progress bar at the top that completes the game after 10 correct answers. Lots of styling stuff. Got images and a background, and finally figured out how to fix the spacing issues I was having trouble with.
 * **Challenges you faced:** Figuring out how to make the image move took me a minute. And the initial method I used to fix the spacing completely ruined the display of the equation so I had to find a different way to do that. Most of the issues I had today centered around.. uh, centering things lol, and just positioning them in general. But I think I have a better understanding of that now.
 * **Tasks for tomorrow:** Style the buttons that I've been putting off since I started this project.
 
 ## Day 31 - 02/11/2021
 
-* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/)
+* **Project you are working on:** [Math Game](https://aprilblossoms.github.io/Math-Game/)
 * **Progress today:** Added autofocus on the inputs. Made a lot of style changes, added some background color to improve readability. Changed the progress bar to be based on % rather than px.  
 * **Challenges you faced:** Figuring out how to change the focus, and make it constantly on the input except at the start page.
 * **Tasks for tomorrow:** Refactoring
 
-## Day 32 02/13/2021
+## Day 32 - 02/13/2021
 
-* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/)
+* **Project you are working on:** [Math Game](https://aprilblossoms.github.io/Math-Game/)
 * **Progress today:** No changes as far asc functionality goes. I'm working on refactoring. I've combined the Start page and the Congratulations page with the new game prompt into one, but I'm not sure if that's actually going to be more efficient, to change the text that's displayed, as opposed to just having completely seperate elements. I could maybe put the form tag around the whole thing, so I don't have the need for the second button.. I'm still toying with it, we'll see. Anyway, I did this in a new branch so that I can mess around with it without screwing up the real game. Also so I can get used to how github works. It's very intimidating for me still.
 * **Challenges you faced:** I didn't realize how much my poor naming skills would come back to bite me in the ass. I'm so grateful for the "find" option in atom because when I decided to start renaming things to be more organized, I didn't think about how much scavenger hunt it would become to update that particular name *everywhere* in the file. Also, I suck at naming. Which seems like a minor problem but I keep being unsure. Do I call the input player-name because that's the information it'll be getting? No, should it be player-name-prompt because the space is only the prompt and whats entered is the player name? Maybe I'm overcomplicating things.
 * **Tasks for tomorrow:** Decide on a way to set up the start/new game pages, and then start styling the buttons.
 
-## Day 33
+## Day 33 02/14/2021
 
-* **Project you are working on:**
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** [Math-Game](https://aprilblossoms.github.io/Math-Game/)
+* **Progress today:** I moved the Congrats screen into a separate element of the new game screen.
+* **Challenges you faced:** Well, it doesn't work. I thought I could hide one element and when needed, change the display of each. And in theory it's set up right, but now something about the way it detects the game being won isn't working.
+* **Tasks for tomorrow:** Make it work, I guess.
 
 ## Day 34
 
