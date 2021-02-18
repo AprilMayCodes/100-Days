@@ -249,26 +249,26 @@ On the bright side, though, these are design issues. I understand the code to ch
 * **Challenges you faced:** Well, it doesn't work. I thought I could hide one element and when needed, change the display of each. And in theory it's set up right, but now something about the way it detects the game being won isn't working.
 * **Tasks for tomorrow:** Make it work, I guess.
 
-## Day 34
+## Day 34 - 02/15/2021
 
 * **Project you are working on:** freeCodeCamp Javascript lessons
 * **Progress today:** Finished the debugging section
 * **Challenges you faced:** none, really. just tired
 * **Tasks for tomorrow:** probably more of the javascript lessons. I'll get back to the math game on my next day off.
 
-## Day 35
+## Day 35 - 02/16/2021
 
-* **Project you are working on:**
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** Sololearn Lessons
+* **Progress today:** Made it through most of them, about mid-way through the ES6 lessons.
+* **Challenges you faced:** I don't understand destructuring, but it wasn't so much a "challenge" because when I got to it I was already at the end of lessons for the night. Hopefully it'll make more sense when I come back to it.
+* **Tasks for tomorrow:** Back to the Math Game
 
-## Day 36
+## Day 36 - 02/17/2021
 
-* **Project you are working on:**
-* **Progress today:**
-* **Challenges you faced:**
-* **Tasks for tomorrow:**
+* **Project you are working on:** [Math Game](https://aprilblossoms.github.io/Math-Game/)
+* **Progress today:** Fixed it! I finally combined the start display and the you won/new game display into one, and got the game to continue working right.
+* **Challenges you faced:** I'm embarrassed to say the problem was my misunderstanding of "id" and "class." I thought they were basically the same thing and didn't get why we'd ever need both. Which was me missing a HUGE aspect of what can be done and ways that SO MUCH can be simplified. So, figuring that out took a minute. But I got it now!
+* **Tasks for tomorrow:** Style the buttons and work on more ways to organize the code.
 
 ## Day 37
 
