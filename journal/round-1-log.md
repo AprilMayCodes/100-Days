@@ -278,19 +278,19 @@
 -   **Challenges you faced:** Really struggling getting the focus onto the new game button once the game's completed. I'm trying to make the game work completely without using the mouse so once the "You Won" page pops focus is already on the button so you can just press enter to begin again. As far as I can tell, nothing I'm doing is putting the focus there.
 -   **Tasks for tomorrow:** Maybe it's because something earlier in the code is focusing on something else. Look into that. Fix the focus issue and then work on the sololearn lessons some more, while I work.
 
-## Day 38
+## Day 38 - 02/20/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Sololearn HTML lessons
+-   **Progress today:** Completed the lessons, but there wasn't really any practice options. (Unless you pay for the *pro* version, which I'm not going to do, lol)
+-   **Challenges you faced:** None. Again, this app is really great for review, which is perfect since that's what I'm doing with HTML. But there weren't really any parts that challenged me.
+-   **Tasks for tomorrow:** More Sololearn lessons
 
-## Day 39
+## Day 39 - 02/22/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** jQuery lessons, on sololearn
+-   **Progress today:** got through the first two modules
+-   **Challenges you faced:** None so far. Even though it's all technically new, it feels a lot like review. Like just a new way to apply all these concepts I already know. I'm already thinking of the ways I can apply this to the math game to help with the organization
+-   **Tasks for tomorrow:** Finish the jquery section, and then see how I can use it on my current projects
 
 ## Day 40
 
