@@ -299,12 +299,12 @@
 -   **Challenges you faced:** None. I really wish I'd started this stuff way sooner. It's so straightforward and easy to understand. At least so far (fingers crossed, lol)
 -   **Tasks for tomorrow:** Work on this course some more
 
-## Day 41
+## Day 41 - 02/24/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** freeCodeCamp courses
+-   **Progress today:** Finished the jQuery and SASS courses
+-   **Challenges you faced:** forgetting the semicolon. OMG having the right answer and reloading and reloading the page because it keeps saying timeout apparently because I forgot a semicolon. Aghhhh.
+-   **Tasks for tomorrow:** Work on the front end course some more
 
 ## Day 42
 
