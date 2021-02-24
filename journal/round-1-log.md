@@ -292,12 +292,12 @@
 -   **Challenges you faced:** None so far. Even though it's all technically new, it feels a lot like review. Like just a new way to apply all these concepts I already know. I'm already thinking of the ways I can apply this to the math game to help with the organization
 -   **Tasks for tomorrow:** Finish the jquery section, and then see how I can use it on my current projects
 
-## Day 40
+## Day 40 - 02/23/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** freeCodeCamp front end library course
+-   **Progress today:** Completed the bootstrap section and started the jQuery one
+-   **Challenges you faced:** None. I really wish I'd started this stuff way sooner. It's so straightforward and easy to understand. At least so far (fingers crossed, lol)
+-   **Tasks for tomorrow:** Work on this course some more
 
 ## Day 41
 
