@@ -306,12 +306,12 @@
 -   **Challenges you faced:** forgetting the semicolon. OMG having the right answer and reloading and reloading the page because it keeps saying timeout apparently because I forgot a semicolon. Aghhhh.
 -   **Tasks for tomorrow:** Work on the front end course some more
 
-## Day 42
+## Day 42 - 02/25/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** freeCodeCamp Front End Libraries courses
+-   **Progress today:** Got started on the React lessons
+-   **Challenges you faced:** Not too many, but where I left off was starting to talk about constructors and some js that I could use a refresher on.
+-   **Tasks for tomorrow:** Get back to the Javascript lessons. I want to finish those up so that I understand everything I'm learning with React.
 
 ## Day 43
 
