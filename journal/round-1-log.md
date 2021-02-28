@@ -313,12 +313,12 @@
 -   **Challenges you faced:** Not too many, but where I left off was starting to talk about constructors and some js that I could use a refresher on.
 -   **Tasks for tomorrow:** Get back to the Javascript lessons. I want to finish those up so that I understand everything I'm learning with React.
 
-## Day 43
+## Day 43 - 02/27/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Javascript courses, a bit of the regex and then completing the Basic Data Structures one
+-   **Progress today:** Finished one of the courses. Realized It's been too long for the regex, I'm gonna start that section over tomorrow
+-   **Challenges you faced:** None really. The Data structures section was all review. Regex didn't come back to me so easily though
+-   **Tasks for tomorrow:** Regex. Nothing else. Get through that freakin section
 
 ## Day 44
 
