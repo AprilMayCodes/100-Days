@@ -21,12 +21,12 @@
 -   **Challenges you faced:** Uh, WTF is up with Ruby? Lol so I know all the concepts already, but I learned them in JS. So I'm like *ok, method. That's a function. But wait... where are your brackets? def..end? That's weird. I don't like that.* 'Challenges' today were just trying to unlearn the JS I know. Not the concepts, just the little things, where it looks a bit different in a different programming language. Even if it is weird. (How can you call a function without the parenthesis? If it doesn't take any arguments, fine I guess. Still feels... idk, incomplete. But like. greet "John" instead of greet("John") ?? One of those just doesn't feel right lol)
 -   **Tasks for tomorrow:** Finish the Intro to Programming section
 
-## Day 3
+## Day 3 - 07/28/21
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Intro to Programming on appacademy
+-   **Progress today:** The sections on Conditionals, Loops, and most of the one on Arrays, I just have a few more of the exercises for that one to do. I've underestimated the challenges here, lol. I'm not expecting to finish the entire Intro to Programming part in a day anymore. Maybe a section and a half is a more practical estimate.
+-   **Challenges you faced:** I keep trying to write in javascript I think. I'm forgetting to add 'end' in the right places, and also keep doing 'else if' instead of 'elsif'. Little things like that, but I'm starting to get the hang of it.
+-   **Tasks for tomorrow:** Finish the arrays exercises, then complete the lectures and exercises on Enumerables and Ranges.
 
 ## Day 4
 
