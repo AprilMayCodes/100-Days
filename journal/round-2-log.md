@@ -28,12 +28,12 @@
 -   **Challenges you faced:** I keep trying to write in javascript I think. I'm forgetting to add 'end' in the right places, and also keep doing 'else if' instead of 'elsif'. Little things like that, but I'm starting to get the hang of it.
 -   **Tasks for tomorrow:** Finish the arrays exercises, then complete the lectures and exercises on Enumerables and Ranges.
 
-## Day 4
+## Day 4 - 07/29/21
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Intro to Programming on appacademy
+-   **Progress today:** Finished the arrays exercises, and the Enumerables and Ranges lectures section.
+-   **Challenges you faced:** --
+-   **Tasks for tomorrow:** Finish the exercises, and then get through the at least the lectures on the Nested Loops and 2D Arrays section.
 
 ## Day 5
 
