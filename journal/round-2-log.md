@@ -35,12 +35,12 @@
 -   **Challenges you faced:** --
 -   **Tasks for tomorrow:** Finish the exercises, and then get through the at least the lectures on the Nested Loops and 2D Arrays section.
 
-## Day 5
+## Day 5 - 7/30/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Intro to Programming on appacademy
+-   **Progress today:** Got through a few of the challenges, but I'm going to need to rewatch a few of the lectures tomorrow.
+-   **Challenges you faced:** Some of the challenges have me stumped, but I think it's because I'm overcomplicating things.
+-   **Tasks for tomorrow:** I'm too tired to rewatch anything tonight. I'm going to go over the lectures for this section again, and then tackle the rest of the challenges tomorrow.
 
 ## Day 6
 
