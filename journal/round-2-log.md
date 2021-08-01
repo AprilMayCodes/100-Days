@@ -49,12 +49,12 @@
 -   **Challenges you faced:** APIs dont quite make sense to me. I mean they do, just not how to implement them like within code. But I was really all over the place with what I was reading about so it's not really discouraging that I was confused. I just haven't gotten there yet. I also struggled with ubuntu because the tutorial was for a different version of it I guess. I figured out what the issue was there, but again it doesn't really matter since I'm not using appacademy I don't think. For now, at least.
 -   **Tasks for tomorrow:** Pick a dang project, April.
 
-## Day 7
+## Day 7 - 8/1/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** I started learning Python! Currently working through the Python for Everybody course
+-   **Progress today:** Completed through exercise 3.2. And got a lot more comfortable with the Command Prompt. It was just scary before, but following these lessons kind of made it seem less scary and more.. simple. It feels way more straightforward now. Also added the py4e repo to github so I can share my progress on there.
+-   **Challenges you faced:** The Command Prompt took me a minute to get used to, but other than that the only real issues I had were forgetting to add the extension (both when creating new files in atom, and when trying to access the file in the Command Prompt.)
+-   **Tasks for tomorrow:** I'll be doing a few more exercises at work tonight, so I'm not sure exactly where I'll have left off at. I'd like to get through at least the Functions, Loops, and Strings sections. But again, that depends on how much of that I get done tonight.
 
 ## Day 8
 
