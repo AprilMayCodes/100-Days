@@ -42,12 +42,12 @@
 -   **Challenges you faced:** Some of the challenges have me stumped, but I think it's because I'm overcomplicating things.
 -   **Tasks for tomorrow:** I'm too tired to rewatch anything tonight. I'm going to go over the lectures for this section again, and then tackle the rest of the challenges tomorrow.
 
-## Day 6
+## Day 6 - 7/31/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** No real project, just kind of jumping around with things.
+-   **Progress today:** Did a lot of reading about APIs (still don't quite understand) and played around with the start of some of the other courses on freeCodeCamp. I followed along the appacademy video tutorials about installing ubuntu and ruby. Shortly before deciding I didn't want to focus on learning Ruby right now. ope.
+-   **Challenges you faced:** APIs dont quite make sense to me. I mean they do, just not how to implement them like within code. But I was really all over the place with what I was reading about so it's not really discouraging that I was confused. I just haven't gotten there yet. I also struggled with ubuntu because the tutorial was for a different version of it I guess. I figured out what the issue was there, but again it doesn't really matter since I'm not using appacademy I don't think. For now, at least.
+-   **Tasks for tomorrow:** Pick a dang project, April.
 
 ## Day 7
 
