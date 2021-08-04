@@ -56,12 +56,12 @@
 -   **Challenges you faced:** The Command Prompt took me a minute to get used to, but other than that the only real issues I had were forgetting to add the extension (both when creating new files in atom, and when trying to access the file in the Command Prompt.)
 -   **Tasks for tomorrow:** I'll be doing a few more exercises at work tonight, so I'm not sure exactly where I'll have left off at. I'd like to get through at least the Functions, Loops, and Strings sections. But again, that depends on how much of that I get done tonight.
 
-## Day 8
+## Day 8 - 8/2/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Python for Everybody
+-   **Progress today:** Finished the Loops and Strings sections
+-   **Challenges you faced:** it's gonna take me a minute to stop using js (syntax? I think that's the word I'm looking for here). instead of str.split() its str(:). I kept messing up in that way, but I'm getting the hang of it.
+-   **Tasks for tomorrow:** Files and Lists lessons
 
 ## Day 9
 
