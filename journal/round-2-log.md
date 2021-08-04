@@ -63,12 +63,12 @@
 -   **Challenges you faced:** it's gonna take me a minute to stop using js (syntax? I think that's the word I'm looking for here). instead of str.split() its str(:). I kept messing up in that way, but I'm getting the hang of it.
 -   **Tasks for tomorrow:** Files and Lists lessons
 
-## Day 9
+## Day 9 - 08/03/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Python for Everybody
+-   **Progress today:** Completed the Files and Lists lessons
+-   **Challenges you faced:** just a bunch of little syntax errors that had me rewriting code, only to realize my mistake and go with my original answer, minus the minor error that was breaking it. I think I'm doing all right though, not really struggling at this point.
+-   **Tasks for tomorrow:** Get started on the Dictionaries lesson. I'm at a point where I've got to watch the lectures as well, I can't just read the lesson and do the exercises, so I think I'll be spending more time on the lessons now, instead of going through multiple ones a day.
 
 ## Day 10
 
