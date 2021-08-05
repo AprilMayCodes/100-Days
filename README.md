@@ -5,6 +5,7 @@
 ## Rules
 
 * Code a minimum of one hour each day for the next 100 days.
+* While I'm not focusing on specific projects just yet, spend at least an hour on lessons/tutorials
 
 ## Projects
 
@@ -15,8 +16,8 @@
 
 You can follow my progress through the challenge:
 
-* [Journal Round 1](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-1-log.md)
-* [Journal Round 2](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-2-log.md)
+* [100 Days of (Learning To) Code Round 1](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-1-log.md)
+* [100 Days of (Learning To) Code Round 2](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-2-log.md)
 * [Blog](https://aprilmayblossoms.tumblr.com/100Days)
 
 ## Resources
