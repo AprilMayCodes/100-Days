@@ -70,9 +70,185 @@
 -   **Challenges you faced:** just a bunch of little syntax errors that had me rewriting code, only to realize my mistake and go with my original answer, minus the minor error that was breaking it. I think I'm doing all right though, not really struggling at this point.
 -   **Tasks for tomorrow:** Get started on the Dictionaries lesson. I'm at a point where I've got to watch the lectures as well, I can't just read the lesson and do the exercises, so I think I'll be spending more time on the lessons now, instead of going through multiple ones a day.
 
-## Day 10
+## Day 10 - 08/04/2021
+
+-   **Project you are working on:** Took a break from PY4E to do watch a bunch of videos. I'd like to start working on some sort of project but I don't know what just yet, and so I've been jumping around to get ideas of what I should learn so that I can build something. That's a bit backwards, isn't it? Oh well.
+-   **Progress today:** Learned a lot about sqlite3 and started following [this](https://www.youtube.com/watch?v=MwZwr5Tvyxo) flask tutorial to build a blog webapp. I think that's what I'm going to go with, focus on learning python and flask. I'll be back to the PY4E probably tomorrow (I'm typing this 8/5 ope.)
+-   **Challenges you faced:** Indecision and impulsivity. My own bs lol. I need to sit down and figure out what I want to make and then try to find what I need in order to do that right? But instead I'm jumping around all sorts of different subjects and thinking of all the ways I could use those, even though I'm still at a very surface level understanding of everything. I was trying to do too much is all. Made me spend a lot of time looking up extra junk.
+-   **Tasks for tomorrow:** Finish the Flask blog video tutorial
+
+
+## Day 11 - 08/05/2021
+
+-   **Project you are working on:** following [this](https://www.youtube.com/watch?v=MwZwr5Tvyxo) flask blog tutorial
+-   **Progress today:** Got through part 3, Forms and User Input
+-   **Challenges you faced:* lots of syntax errors, but it was actually really refreshing because I was able to find and fix them on my own. It feels good to not be googling everything. Even though I made a lot of mistakes, I was able to find and fix them all very quickly
+-   **Tasks for tomorrow:** More of the flask blog tutorial, but also complete the dictionaries lesson on PY4E.
+
+## Day 12 -
 
 -   **Project you are working on:**
 -   **Progress today:**
--   **Challenges you faced:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 13 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 14 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 15 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 16 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 17 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 18 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 19 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 20 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 21 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 22 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 23 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 24 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 25 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 26 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 27 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 28 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 29 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 30 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 31 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 32 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 33 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 34 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
+-   **Tasks for tomorrow:**
+
+## Day 35 -
+
+-   **Project you are working on:**
+-   **Progress today:**
+-   **Challenges you faced:*
 -   **Tasks for tomorrow:**
