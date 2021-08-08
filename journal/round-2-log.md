@@ -85,19 +85,19 @@
 -   **Challenges you faced:* lots of syntax errors, but it was actually really refreshing because I was able to find and fix them on my own. It feels good to not be googling everything. Even though I made a lot of mistakes, I was able to find and fix them all very quickly
 -   **Tasks for tomorrow:** More of the flask blog tutorial, but also complete the dictionaries lesson on PY4E.
 
-## Day 12 -
+## Day 12 - 08/06/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:*
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Well, I wanted to build like a to-do list sort of app that would let me keep track of the homeschool lessons we're doing with the girls. These are what we need to go over today, here are videos to watch for today, etc.
+-   **Progress today:** Following along with the flask blog tutorial I sort of cherry picked the things I needed to apply. I made the home page, the 'todays lesson' page, and a page that will allow me to add to the units
+-   **Challenges you faced:* I couldn't figure out how to get it to actually read the data from the db. I was struggling in general with how to create the tables and update and access them. Every time I came back to it with a new plan, it still wasn't quite right.
+-   **Tasks for tomorrow:** --
 
-## Day 13 -
+## Day 13 - 08/07/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:*
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Lesson plan app
+-   **Progress today:** I figured it out! I have spent hours working on this. Watching tutorials, reading, trying to piece together what it was that I was doing wrong and I finally got it! As usual, I was trying to overcomplicate things. I didn't need more than one table, and that's where I was getting thrown most of the time. Now I've updated it to access the info from the db, and to update the table as needed.
+-   **Challenges you faced:* Struggling with the database a lot, and then with getting it to return the right string, instead of Task(1.1, 'This is task 1').
+-   **Tasks for tomorrow:** Some basic styling, get a nav bar added, and then start on the dictionaries lesson on PY4E
 
 ## Day 14 -
 
