@@ -99,19 +99,27 @@
 -   **Challenges you faced:* Struggling with the database a lot, and then with getting it to return the right string, instead of Task(1.1, 'This is task 1').
 -   **Tasks for tomorrow:** Some basic styling, get a nav bar added, and then start on the dictionaries lesson on PY4E
 
-## Day 14 -
+## Day 14 - 08/08/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:*
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Lesson plan app. and my naming skills.
+-   **Progress today:** Made a way to add videos that will appear below the to-do list, so everything is all in one place instead of having to find if/where I bookmarked them.
+-   **Challenges you faced:*Again with the database thing. It was a simple fix though, I think the problem was when I was following the tutorial to set it up as a package, it was still referencing the original db instead of the new blank one that had been made. Anyway, this has been like 20 mins. I'll spend more time later working on adding a nav bar.
 
-## Day 15 -
+## Day 14 1/2 - 08/08/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:*
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Lesson plan app. I've given up on the naming skills.
+-   **Progress today:** Added a nav bar, with a link to add a task, add a vid, or go home. The add links will redirect home after you click submit. the home page asks for the unit, and will take you to the to-do list for the day.
+-   **Challenges you faced:*I was trying to put a form inside the nav bar that would let you enter the unit there and get taken to that days to-do list. I couldn't get it quite right, though. Everytime I fixed all the other errors, I ended up back at the same issue where 'tasks' is called before it's defined. I understand what the issue means, but I couldn't figure out how to fix it so I gave up for now.
+    **Tasks for tomorrow:** Add a title or description space to the videos section, and create a "done" button that will update the database. I'd like the 'home' page to open on the most recent unit. Then 'done' will update the database and update the home page. Maybe. I'll see, I'm not sure yet.
+    I'm gonna stop adding the PY4E lessons on my to do list because I keep not doing them. I'll get back to it eventually, I'm sure.
+
+## Day 15 - 08/09/2021
+
+-   **Project you are working on:** Lesson Plan app
+-   **Progress today:** I got a description section added for the videos.
+-   **Challenges you faced:* Adding the description part to the database was easy. Figuring out how to access it took me so so long. At first glance it seems convenient to set the variables the way I have been. videos=videos, sure. The list returned by the query is the video list we'll loop through once the page loads. But then.. where is the description? Which 'videos' variable contains that? Hint: not the one I was using for the first half hour.
+  But again, that was an easy fix, and it helped me understand more about what my code is doing so no complaints here.
+-   **Tasks for tomorrow:** The 'Done' button, potentially. And figure out how I want to handle the home page.
 
 ## Day 16 -
 
