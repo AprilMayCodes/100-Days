@@ -121,12 +121,12 @@
   But again, that was an easy fix, and it helped me understand more about what my code is doing so no complaints here.
 -   **Tasks for tomorrow:** The 'Done' button, potentially. And figure out how I want to handle the home page.
 
-## Day 16 -
+## Day 16 - 08/10/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Lesson Planner
+-   **Progress today:** Took a bit of a detour tonight, and decided to work on adding individual pages for each of the girls. I'd like to have an individual to-do list for each of them that can be updated like, at the end of the day. I got a page for Naomi made, and a "Done" button added to the bottom of the page
+-   **Challenges you faced:** I can't figure out how make the button... do things. I thought it'd be way simpler than the forms but i'm not sure how to reference the information that I want to delete, without some sort of input field. Maybe i'll add like a checkbox for the tasks to delete.
+-   **Tasks for tomorrow:** Get the delete button working.
 
 ## Day 17 -
 
