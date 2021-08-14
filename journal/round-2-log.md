@@ -128,19 +128,21 @@
 -   **Challenges you faced:** I can't figure out how make the button... do things. I thought it'd be way simpler than the forms but i'm not sure how to reference the information that I want to delete, without some sort of input field. Maybe i'll add like a checkbox for the tasks to delete.
 -   **Tasks for tomorrow:** Get the delete button working.
 
-## Day 17 -
+## Day 17 - 08/11/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** None. Watching/Reading through various flask and python tutorials. This is a cheat day, while I try to figure out what next steps I'm taking.
 
-## Day 18 -
+## Day 18 - 08/12/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** None. I missed today, no coding, unless you count pseudo code and me trying to figure out why my lesson plan app messed up. Blahh. I'll be back to work on it tomorrow.
+
+## Day 18 Take 2 - 08/13/2021
+
+-   **Project you are working on:** Lesson planner thing. I started over.
+-   **Progress today:** Well, since I started from 0 I'd say I got a lot accomplished today. I can add the to-do list and the videos, and go to specific units. I am stuck on how to delete tasks though. I thought it'd be simple to just have a button that 'updates' the db by removing each task with that days unit, but I haven't figured it out yet.
+I also got the pages for the girls individual to do lists added but haven't gotten them to display anything right. There's the input area, but it doesn't connect to the database, and the current info from the database doesn't show up.
+-   **Challenges you faced:** See above
+-   **Tasks for tomorrow:** Work on the two issues I've been working on, I guess. First, fix the individual todo list pages. Then work on adding an update option.
 
 ## Day 19 -
 
