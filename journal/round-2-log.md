@@ -144,12 +144,12 @@ I also got the pages for the girls individual to do lists added but haven't gott
 -   **Challenges you faced:** See above
 -   **Tasks for tomorrow:** Work on the two issues I've been working on, I guess. First, fix the individual todo list pages. Then work on adding an update option.
 
-## Day 19 -
+## Day 19 - 08/14/2021
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+-   **Project you are working on:** Lesson Planner
+-   **Progress today:** Got checkboxes added, now I just need to figure out how to connect them to the db. But they're showing up on the page and at least doing something, so that's progress. ...Came back to this several hours later and decided to trash the individual todo lists. They weren't a part of what I initially wanted to be making anyway. Instead, I got an update button added to the page that successfully deletes the first thing in the db. Now the problem.. I need it to delete the first several things in the db. I also added some formatting, not a whole lot just making it look a tiny bit neater. And I made the task into a link so it will link to the pages we're reading from, or the instructions for an art project, etc.
+-   **Challenges you faced:** Working with the database has been a struggle for me. I guess that's to be expected when I jump in without actually trying to learn how they work first. *shrug* Anyway I just need to write some sort of while loop or something that checks if the unit is the same as the current unit, and if so delete that one as well
+-   **Tasks for tomorrow:** Fix the update button and create a try/except or something so that it doesn't mess up when trying to load a page for a unit with no tasks entered
 
 ## Day 20 -
 
