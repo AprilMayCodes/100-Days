@@ -41,7 +41,7 @@
 
 -   **Project You Are Working On:** Tarot Journal
 -   **Progress Today:** So much! I decided to go back to it again, starting over but this time taking what I've learned from the tutorials and kind of piecing something together on my own, instead of trying to follow along with the video as I build something completely different. I know I still need to go back and start at the beginning, but I've learned enough to put this together and I've worked through so much of the stuff I'd been struggling with. Anyway, so far today I've: Got the general layout set up, created the database with the foreign keys and relationships set up right (finally!), created a form so a reading can be added to the database. The home page lists all the current readings, and you can sort by querent. I also got some images added
--   **Tasks For Tomorrow:**See about tags? Find a way to add the cards to the readings. Otherwise, work on the draw a card section. Add javascript?
+-   **Tasks For Tomorrow:** See about tags? Find a way to add the cards to the readings. Otherwise, work on the draw a card section. Add javascript?
 
 ## Day 6 -
 #30+ min
