@@ -2,6 +2,7 @@
 
 **Start date**: 01/09/21
 **End date**: 02/27/21
+**43 Days**
 
 ## Goals
 

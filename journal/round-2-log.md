@@ -1,7 +1,8 @@
 # Round 2 Log
 
 **Start date**: 07/26/21
-**End date**: xx/xx/xx
+**End date**: 08/14/21
+**19 Days**
 
 ## Goals
 
@@ -151,114 +152,5 @@ I also got the pages for the girls individual to do lists added but haven't gott
 -   **Challenges you faced:** Working with the database has been a struggle for me. I guess that's to be expected when I jump in without actually trying to learn how they work first. *shrug* Anyway I just need to write some sort of while loop or something that checks if the unit is the same as the current unit, and if so delete that one as well
 -   **Tasks for tomorrow:** Fix the update button and create a try/except or something so that it doesn't mess up when trying to load a page for a unit with no tasks entered
 
-## Day 20 -
 
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 21 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 22 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 23 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 24 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 25 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 26 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 27 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 28 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 29 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 30 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 31 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 32 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 33 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 34 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
-
-## Day 35 -
-
--   **Project you are working on:**
--   **Progress today:**
--   **Challenges you faced:**
--   **Tasks for tomorrow:**
+Got almost half as far as I did last time. I need an actual project I'll commit to. Otherwise I jump around too much and end up getting bored. At least I've sort of made things each time, lol. We'll see again next time
