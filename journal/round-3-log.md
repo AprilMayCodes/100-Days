@@ -43,9 +43,9 @@
 -   **Progress Today:** So much! I decided to go back to it again, starting over but this time taking what I've learned from the tutorials and kind of piecing something together on my own, instead of trying to follow along with the video as I build something completely different. I know I still need to go back and start at the beginning, but I've learned enough to put this together and I've worked through so much of the stuff I'd been struggling with. Anyway, so far today I've: Got the general layout set up, created the database with the foreign keys and relationships set up right (finally!), created a form so a reading can be added to the database. The home page lists all the current readings, and you can sort by querent. I also got some images added
 -   **Tasks For Tomorrow:** See about tags? Find a way to add the cards to the readings. Otherwise, work on the draw a card section. Add javascript?
 
-## Day 6 -
-#30+ min
+## Day 6 - 08/22/21
+#60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Challenges you faced:**
+-   **Project You Are Working On:** working through the Learning Flask Framework book
+-   **Progress Today:** None on my Tarot app, unfortunately. I had to work today so I couldn't devote as much time to it. Instead, I worked through chapter one and most of chapter two of the Learning Flask Framework book. Set up a virtualenvironment and started following along (actually following, not just cherrypicking pieces I need), to make a blog app. I'm hoping to be able to apply it to my tarot journal app, but baby steps.
+-   **Tasks for Tomorrow:** Finish chapter two and the tag system for the blog app, and get started on chapter 3. Maybe work the Draw A Card function for the tarot journal, if there's time.
