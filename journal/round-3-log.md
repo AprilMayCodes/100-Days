@@ -44,8 +44,15 @@
 -   **Tasks For Tomorrow:** See about tags? Find a way to add the cards to the readings. Otherwise, work on the draw a card section. Add javascript?
 
 ## Day 6 - 08/22/21
-#60+ min
+#60+ mins
 
 -   **Project You Are Working On:** working through the Learning Flask Framework book
 -   **Progress Today:** None on my Tarot app, unfortunately. I had to work today so I couldn't devote as much time to it. Instead, I worked through chapter one and most of chapter two of the Learning Flask Framework book. Set up a virtualenvironment and started following along (actually following, not just cherrypicking pieces I need), to make a blog app. I'm hoping to be able to apply it to my tarot journal app, but baby steps.
 -   **Tasks for Tomorrow:** Finish chapter two and the tag system for the blog app, and get started on chapter 3. Maybe work the Draw A Card function for the tarot journal, if there's time.
+
+## Day 7 - 08/23/21
+#60+ min
+
+-   **Project You Are Working On:** Tarot Journal
+-   **Progress Today:** Turns out that book is a little bit outdated. I skimmed the chapter on using a db with Flask and it was sort of helpful, but I'm not gonna bother following the lessons in it. I'll find something else to do on busier days. In the meantime, I've got a database made! Complete with many-to-many relationships for the tags. I got some new ideas for features I'd like to have available in the app so I'm gonna try to plan those out before I do more with it. I think I'm going to edit the db the rest of the way in the DB Browser, and then use automap to finish building the app around the db I've been working on. (Based on [this video](https://www.youtube.com/watch?v=UK57IHzSh8I).) That way I'm not constantly deleting and restarting the db when I'm checking if the code works. I want to be able to add reading and card entries, but there also needs to be the static 78 cards in a db as the tags, it'd be a pain to redo that over and over because I think of a small change to make.
+-   **Tasks for Tomorrow:** Restructure the app to be used around an existing db.
