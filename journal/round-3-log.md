@@ -56,3 +56,12 @@
 -   **Project You Are Working On:** Tarot Journal
 -   **Progress Today:** Turns out that book is a little bit outdated. I skimmed the chapter on using a db with Flask and it was sort of helpful, but I'm not gonna bother following the lessons in it. I'll find something else to do on busier days. In the meantime, I've got a database made! Complete with many-to-many relationships for the tags. I got some new ideas for features I'd like to have available in the app so I'm gonna try to plan those out before I do more with it. I think I'm going to edit the db the rest of the way in the DB Browser, and then use automap to finish building the app around the db I've been working on. (Based on [this video](https://www.youtube.com/watch?v=UK57IHzSh8I).) That way I'm not constantly deleting and restarting the db when I'm checking if the code works. I want to be able to add reading and card entries, but there also needs to be the static 78 cards in a db as the tags, it'd be a pain to redo that over and over because I think of a small change to make.
 -   **Tasks for Tomorrow:** Restructure the app to be used around an existing db.
+
+
+## Day 8 - 08/24/21
+#60+ min
+
+-   **Project You Are Working On:** Tarot Journal
+-   **Progress Today:** I think I was wrong about making changes to the db. For now I'm not changing it, but I might once I finish the tags issue. Added a space to add tags, but now I can't figure out how to access that data.
+-   **Tasks for Tomorrow:** Work on the tags thing
+-   **Update:** I came back to this for a bit today and got it working! I can now add tags to posts and they're added to the database as well. Fixed a couple other minor db issues as well. Though, the more I get done, the uglier this thing gets lol. I'm going to have to take some time out to just focus on the styling pretty soon here, before it becomes so daunting that I deem it not worth doing. I might work on that tomorrow, otherwise I'll be focusing on creating the Card page, with basic card meanings, etc.
