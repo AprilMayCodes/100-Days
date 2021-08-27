@@ -73,12 +73,12 @@
 -   **Progress Today:** Got the card pages added and updateable, also added all the cards to the DB and made sure the tags worked with the new cards. Did a bit of formatting. It looks more balanced now. I'm working on figuring out how to use modals, that's how I'm going to handle the draw a card feature I think, but I'm having some trouble with it so far.
 -   **Tasks for Tomorrow:** Modals and more styling
 
-## Day 10
-30+ min
+## Day 10 - 08/26/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot Journal
+-   **Progress Today:** Fixed the issue with the modals, somewhat. Draw a Card works, for a random deck or for a specific one. Readings can be updated now. A couple more styling things, but its still really barebones right now. I'll make it pretty once it's completely functional, I think. Also added a bunch of cards to the db, but I don't think that really counts as 'coding', esp since I'm using the DB Browser instead of actually writing the SQLite code to make the changes. Also made it viewable, in it's current state at least. I'm not sure how heroku works with updating it but for now it can be seen at https://flask-tarotjournal.herokuapp.com/
+-   **Tasks for Tomorrow:** Work on the Card Collection section, editing notes on those cards and maybe adding images. That, or making the card tags in the Readings link to their card pages.
 
 ## Day 11 -
 30+ min
