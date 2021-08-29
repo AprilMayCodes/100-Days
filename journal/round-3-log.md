@@ -80,19 +80,19 @@
 -   **Progress Today:** Fixed the issue with the modals, somewhat. Draw a Card works, for a random deck or for a specific one. Readings can be updated now. A couple more styling things, but its still really barebones right now. I'll make it pretty once it's completely functional, I think. Also added a bunch of cards to the db, but I don't think that really counts as 'coding', esp since I'm using the DB Browser instead of actually writing the SQLite code to make the changes. Also made it viewable, in it's current state at least. I'm not sure how heroku works with updating it but for now it can be seen at https://flask-tarotjournal.herokuapp.com/
 -   **Tasks for Tomorrow:** Work on the Card Collection section, editing notes on those cards and maybe adding images. That, or making the card tags in the Readings link to their card pages.
 
-## Day 11 -
-30+ min
+## Day 11 - 08/27/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot Journal
+-   **Progress Today:** Linked the tags to the card pages. Did a little bit of styling on the draw a card part. Added a space for the journal prompt, and added some stuff to the db for those cards. Can also edit the notes for the cards in the collection now as well. Spent a bit of time trying to put a search bar in the navbar that would go to a card page when searched but I can't figure out how to make it work, without copying the code into each individual route and that just seems like overkill. I'm sure there's a better way so I'm gonna hold off til I figure out what that is.
+-   **Tasks for Tomorrow:** Change the collection page to show the deck specific details at the top, and the card specific details below. Maybe add notes for each deck to the card pages as well.
 
-## Day 12 -
-30+ min
+## Day 12 - 08/28/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot Journal
+-   **Progress Today:** Added Carousel to the card page, and the details from the specific cards, below the general card info. Added a bunch of notes to the db.
+-   **Tasks for Tomorrow:** Make sure images work for the carousel and get some added.
 
 ## Day 13 -
 30+ min
