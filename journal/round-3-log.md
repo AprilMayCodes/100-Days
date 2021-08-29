@@ -94,12 +94,12 @@
 -   **Progress Today:** Added Carousel to the card page, and the details from the specific cards, below the general card info. Added a bunch of notes to the db.
 -   **Tasks for Tomorrow:** Make sure images work for the carousel and get some added.
 
-## Day 13 -
+## Day 13 - 08/29/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot Journal
+-   **Progress Today:** Got the enter card space to be smaller but I can't make it like, inline or whatever. I'm gonna have to retype the whole form thing I think, so that I can set it up properly. Also got some images added. Not many, it's gonna take some time to get it all done but I made sure they work so there's that. Only about 30mins today, gotta get ready for work.
+-   **Tasks for Tomorrow:** More styling. Add images to collection page. And to modal?
 
 ## Day 14 -
 30+ min
