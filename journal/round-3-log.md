@@ -101,12 +101,12 @@
 -   **Progress Today:** Got the enter card space to be smaller but I can't make it like, inline or whatever. I'm gonna have to retype the whole form thing I think, so that I can set it up properly. Also got some images added. Not many, it's gonna take some time to get it all done but I made sure they work so there's that. Only about 30mins today, gotta get ready for work.
 -   **Tasks for Tomorrow:** More styling. Add images to collection page. And to modal?
 
-## Day 14 -
-30+ min
+## Day 14 - 08/30/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Home Binder - App?
+-   **Progress Today:** None that will stick, I'm afraid. I was thinking about taking my various home binder collection and combining them into one thing in the form of a flask app, but instead of starting with the back end I spent a bunch of time messing around with HTML only to realize I'm gonna want the other stuff done first anyway and to know how it will all be set up and stuff. So instead I've just gotten some more stuff added to the db on the tarot one but no new code that I'm gonna keep.
+-   **Tasks for Tomorrow:** Get back to styling. Stop stalling.
 
 ## Day 15 -
 30+ min
