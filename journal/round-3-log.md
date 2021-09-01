@@ -108,7 +108,112 @@
 -   **Progress Today:** None that will stick, I'm afraid. I was thinking about taking my various home binder collection and combining them into one thing in the form of a flask app, but instead of starting with the back end I spent a bunch of time messing around with HTML only to realize I'm gonna want the other stuff done first anyway and to know how it will all be set up and stuff. So instead I've just gotten some more stuff added to the db on the tarot one but no new code that I'm gonna keep.
 -   **Tasks for Tomorrow:** Get back to styling. Stop stalling.
 
-## Day 15 -
+## Day 15 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:** Home Binder. I'm still stalling.
+-   **Progress Today:** At least it's stalling by messing with HTML. Learn by doing blah blah. I sort of set up what I'd like a week view page to look. It's cramped, though. Gonna see if I can make it look a bit neater tomorrow. I'll get back to the tarot app another day. I'm still adding notes to the db every day, that's progress toward completing it.
+-   **Tasks for Tomorrow:** Make the week view a bit neater. Maybe make a few other pages to decide if this is something I'm actually going to work on or not.
+
+## Day 16 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 17 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 18 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 19 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 20 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 21 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 22 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 23 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 24 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 25 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 26 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 27 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 28 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 29 - 08/31/21
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 30 - 08/31/21
 30+ min
 
 -   **Project You Are Working On:**
