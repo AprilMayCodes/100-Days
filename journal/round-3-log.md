@@ -115,12 +115,12 @@
 -   **Progress Today:** At least it's stalling by messing with HTML. Learn by doing blah blah. I sort of set up what I'd like a week view page to look. It's cramped, though. Gonna see if I can make it look a bit neater tomorrow. I'll get back to the tarot app another day. I'm still adding notes to the db every day, that's progress toward completing it.
 -   **Tasks for Tomorrow:** Make the week view a bit neater. Maybe make a few other pages to decide if this is something I'm actually going to work on or not.
 
-## Day 16 - 08/31/21
-30+ min
+## Day 16 - 9/1/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Home Binder and Tarot Journal
+-   **Progress Today:** Watched some tutorials on the calendar module and datetime and decided to hold off on the planner/home binder thing til I understand a bit more. For the Tarot Journal, I got a bunch more images added, and got them sized right and the card page basically set up how I want it to be. Then started on the navbar, but only got as far as changing the background color. 
+-   **Tasks for Tomorrow:** Finish styling the navbar.
 
 ## Day 17 - 08/31/21
 30+ min
