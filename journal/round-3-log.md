@@ -119,101 +119,102 @@
 60+ min
 
 -   **Project You Are Working On:** Home Binder and Tarot Journal
--   **Progress Today:** Watched some tutorials on the calendar module and datetime and decided to hold off on the planner/home binder thing til I understand a bit more. For the Tarot Journal, I got a bunch more images added, and got them sized right and the card page basically set up how I want it to be. Then started on the navbar, but only got as far as changing the background color. 
+-   **Progress Today:** Watched some tutorials on the calendar module and datetime and decided to hold off on the planner/home binder thing til I understand a bit more. For the Tarot Journal, I got a bunch more images added, and got them sized right and the card page basically set up how I want it to be. Then started on the navbar, but only got as far as changing the background color.
 -   **Tasks for Tomorrow:** Finish styling the navbar.
+    **Update:** Did a bunch of styling stuff, added color, some hover effects on the buttons. I'm really just about done with it I think. It still looks a bit wonky but we're getting there.
 
-## Day 17 - 08/31/21
+## Day 17 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 18 - 08/31/21
+## Day 18 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 19 - 08/31/21
+## Day 19 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 20 - 08/31/21
+## Day 20 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 21 - 08/31/21
+## Day 21 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 22 - 08/31/21
+## Day 22 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 23 - 08/31/21
+## Day 23 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+
+-   **Tasks for Tomorrow:**
+## Day 24 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 24 - 08/31/21
+## Day 25 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 25 - 08/31/21
+## Day 26 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 26 - 08/31/21
+## Day 27 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 27 - 08/31/21
+## Day 28 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 28 - 08/31/21
+## Day 29 -
 30+ min
 
 -   **Project You Are Working On:**
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 29 - 08/31/21
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 30 - 08/31/21
+## Day 30 -
 30+ min
 
 -   **Project You Are Working On:**
