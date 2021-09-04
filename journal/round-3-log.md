@@ -123,19 +123,19 @@
 -   **Tasks for Tomorrow:** Finish styling the navbar.
     **Update:** Did a bunch of styling stuff, added color, some hover effects on the buttons. I'm really just about done with it I think. It still looks a bit wonky but we're getting there.
 
-## Day 17 -
+## Day 17 - 09/02/21
+60+ min
+
+-   **Project You Are Working On:** [Tarot Journal](flask-tarotjournal.herokuapp.com)
+-   **Progress Today:** I've got it done! It's still ugly. The images could use resizing. I'd like a better font in the navbar and probably for the whole thing. There's just a couple little things like that. But I got it looking prettier-ish and its fully functional and useable so I'm going to start using it I think. Which means I'm gonna stop sharing it lol but the point its at on heroku is a pretty complete point. I'm comfortable enough with it.
+-   **Tasks for Tomorrow:** Home Binder/journal app
+
+## Day 18 - 09/03/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 18 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Home Binder
+-   **Progress Today:** Figured out how to use the Calendar module. At least a little bit. I've got something started but again I can't do much without having more planned out. I have no clue right now what the database should look like, how anything should really be organized. I've got to figure that out first.
+-   **Tasks for Tomorrow:** Pick a project, I guess.
 
 ## Day 19 -
 30+ min
