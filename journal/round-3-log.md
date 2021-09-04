@@ -137,12 +137,12 @@
 -   **Progress Today:** Figured out how to use the Calendar module. At least a little bit. I've got something started but again I can't do much without having more planned out. I have no clue right now what the database should look like, how anything should really be organized. I've got to figure that out first.
 -   **Tasks for Tomorrow:** Pick a project, I guess.
 
-## Day 19 -
+## Day 19 - 9/04/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Home Binder
+-   **Progress Today:** Messed around with the calendar module some more. I think I understand it enough to set something up, once I know what it is I want set up. Gonna press pause on that for now. Then I started an on-call organizer but realized it's probably better done in excel. I think I'm gonna try to learn excel and work on that. And yes, I'll be counting those as days of coding. At least for now, lol
+-   **Tasks for Tomorrow:** Learn Excel
 
 ## Day 20 -
 30+ min
