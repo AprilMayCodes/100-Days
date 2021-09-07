@@ -144,19 +144,19 @@
 -   **Progress Today:** Messed around with the calendar module some more. I think I understand it enough to set something up, once I know what it is I want set up. Gonna press pause on that for now. Then I started an on-call organizer but realized it's probably better done in excel. I think I'm gonna try to learn excel and work on that. And yes, I'll be counting those as days of coding. At least for now, lol
 -   **Tasks for Tomorrow:** Learn Excel
 
-## Day 20 -
+## Day 20 - 09/05/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Reading the docs for kivy and tkinter
+-   **Progress Today:** None really. started the Pong tutorial with kivy, got bored and started reading about tkinter. All of it seems like way too much going on for me. I'm not sure yet what I'm going to work on
+-   **Tasks for Tomorrow:** Pick a project
 
-## Day 21 -
-30+ min
+## Day 21 - 09/06/2021
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Training website
+-   **Progress Today:** Spent an embarrassingly long time trying to figure out how to use bootstrap to make a side navbar, but I got it eventually! decided to work on a technical documentation sort of page, kind of like the one I had to do for my freecodecamp certificate,but this time using flask and making like a guidelines/training sort of thing for my job. Working on the database now. I'd like it to be set up so that I can grab the headers from the database to create the links in the sidebar, instead of listing each individually. I'm sure it can be done, I'm just not so sure I've got it figured out yet.
+-   **Tasks for Tomorrow:** Work on the sidebar and db
 
 ## Day 22 -
 30+ min
