@@ -151,27 +151,27 @@
 -   **Progress Today:** None really. started the Pong tutorial with kivy, got bored and started reading about tkinter. All of it seems like way too much going on for me. I'm not sure yet what I'm going to work on
 -   **Tasks for Tomorrow:** Pick a project
 
-## Day 21 - 09/06/2021
+## Day 21 - 09/06/21
 60+ min
 
 -   **Project You Are Working On:** Training website
 -   **Progress Today:** Spent an embarrassingly long time trying to figure out how to use bootstrap to make a side navbar, but I got it eventually! decided to work on a technical documentation sort of page, kind of like the one I had to do for my freecodecamp certificate,but this time using flask and making like a guidelines/training sort of thing for my job. Working on the database now. I'd like it to be set up so that I can grab the headers from the database to create the links in the sidebar, instead of listing each individually. I'm sure it can be done, I'm just not so sure I've got it figured out yet.
 -   **Tasks for Tomorrow:** Work on the sidebar and db
 
-## Day 22 -
+## Day 22 - 09/07/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
+-   **Project You Are Working On:** Training Website
+-   **Progress Today:** Got the sidebar to work with the database, but I think I'm overcomplicating the db a little bit. We'll see. I'll work on it more later if there's time.
 -   **Tasks for Tomorrow:**
 
-## Day 23 -
+## Day 23 - 09/08/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
+-   **Project You Are Working On:** Tarot Journal
+-   **Progress Today:** A bit more styling, and added a space for a regular journal entry and a page that displays all of them.
+-   **Tasks for Tomorrow:** Add the links for the journal entry into the nav and maybe some sort of "read more" button
 
--   **Tasks for Tomorrow:**
 ## Day 24 -
 30+ min
 
