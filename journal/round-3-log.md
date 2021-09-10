@@ -179,12 +179,12 @@
 -   **Progress Today:** Started with a kivy tutorial. Changed my mind and switched to tkinter. Realized my heart isn't in it and decided to give up on learning to make a gui for now. Changed a couple colors on the tarot app. Decided to work on a new version that isn't just for me but could be used by anyone. Then decided to work on like a tabletop game sort of DM screen type thing. I didn't get too far into the content of that because I'm working on getting the users created, but I've made progress.
 -   **Tasks for Tomorrow:** Finish the user login part of the tabletop thing, and maybe create that for the tarot app 2.0
 
-## Day 25 -
-30+ min
+## Day 25 - 09/10/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot v2 and Tabletop thing.
+-   **Progress Today:** Created login and register pages for both of them, and started working on how I want the Nav set up for the tarot one.
+-   **Tasks for Tomorrow:** Set up the user authentication settings on the tarot one, and the other if there's time.
 
 ## Day 26 -
 30+ min
