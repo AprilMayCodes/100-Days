@@ -186,12 +186,12 @@
 -   **Progress Today:** Created login and register pages for both of them, and started working on how I want the Nav set up for the tarot one.
 -   **Tasks for Tomorrow:** Set up the user authentication settings on the tarot one, and the other if there's time.
 
-## Day 26 -
-30+ min
+## Day 26 - 09/11/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot v2
+-   **Progress Today:** Got the home page set up the way I want it to be. I'm working on it page by page this time, instead of making the whole thing work and then styling it. Styling the other is too daunting a task, I think if I do it in bits as I make each page it'll lead to a neater finished project.
+-   **Tasks for Tomorrow:** the Draw a card page with modal
 
 ## Day 27 -
 30+ min
