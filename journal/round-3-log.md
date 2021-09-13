@@ -193,12 +193,12 @@
 -   **Progress Today:** Got the home page set up the way I want it to be. I'm working on it page by page this time, instead of making the whole thing work and then styling it. Styling the other is too daunting a task, I think if I do it in bits as I make each page it'll lead to a neater finished project.
 -   **Tasks for Tomorrow:** the Draw a card page with modal
 
-## Day 27 -
+## Day 27 - 09/12/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot v2
+-   **Progress Today:** set up the blueprints instead of having everything in the one routes file, and got the user authentication stuff all set up following the tutorial
+-   **Tasks for Tomorrow:** finish tutorial video, set up config
 
 ## Day 28 -
 30+ min
