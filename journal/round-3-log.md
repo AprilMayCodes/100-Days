@@ -200,12 +200,12 @@
 -   **Progress Today:** set up the blueprints instead of having everything in the one routes file, and got the user authentication stuff all set up following the tutorial
 -   **Tasks for Tomorrow:** finish tutorial video, set up config
 
-## Day 28 -
-30+ min
+## Day 28 - 09/13/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot v2
+-   **Progress Today:** finished setting up config file and app factory (though admittedly I don't really understand what that means). Started on the view collection page. It's gonna take me a while to figure this out, I think. To figure out how to make it work with the tabs how I want
+-   **Tasks for Tomorrow:** Set up the view collection page
 
 ## Day 29 -
 30+ min
