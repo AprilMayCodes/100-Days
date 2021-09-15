@@ -207,14 +207,119 @@
 -   **Progress Today:** finished setting up config file and app factory (though admittedly I don't really understand what that means). Started on the view collection page. It's gonna take me a while to figure this out, I think. To figure out how to make it work with the tabs how I want
 -   **Tasks for Tomorrow:** Set up the view collection page
 
-## Day 29 -
-30+ min
+## Day 29 - 09/14/21
+60+ min
 
 -   **Project You Are Working On:** Tarot v2
 -   **Progress Today:** Got the View Collection page and the Collection Card pages set up. Got started on the regular card page as well
 -   **Tasks for Tomorrow:** Fix the carousel and colors on the card page.
 
-## Day 30 -
+## Day 30 - 09/15/21
+60+ min
+
+-   **Project You Are Working On:** Tarot v2
+-   **Progress Today:** Fixed the navbar, got several more pages set up and the images sized better. Got the carousel right and rearranged some pages. Lots of little stuff
+-   **Tasks for Tomorrow:** Get the readings/journal pages made
+
+## Day 31 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 32 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 33 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 34 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 35 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 36 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 37 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 38 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 39 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 40 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 41 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 42 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 43 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 44 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 45 -
 30+ min
 
 -   **Project You Are Working On:**
