@@ -210,9 +210,9 @@
 ## Day 29 -
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tarot v2
+-   **Progress Today:** Got the View Collection page and the Collection Card pages set up. Got started on the regular card page as well
+-   **Tasks for Tomorrow:** Fix the carousel and colors on the card page.
 
 ## Day 30 -
 30+ min
