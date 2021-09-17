@@ -221,11 +221,11 @@
 -   **Progress Today:** Fixed the navbar, got several more pages set up and the images sized better. Got the carousel right and rearranged some pages. Lots of little stuff
 -   **Tasks for Tomorrow:** Get the readings/journal pages made
 
-## Day 31 -
-30+ min
+## Day 31 - 09/16/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
+-   **Project You Are Working On:** Tarot v2
+-   **Progress Today:** Got it on heroku. Took me a min to figure out what was going wrong there but I finally got it working. Fixed some the buttons and removed the "forgot password" link because I'm not going to set that up, I don't think. At least not anytime soon. Added a bunch more stuff to the database, but still quite a ways from having that completed.
 -   **Tasks for Tomorrow:**
 
 ## Day 32 -
