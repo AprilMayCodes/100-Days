@@ -228,19 +228,19 @@
 -   **Progress Today:** Got it on heroku. Took me a min to figure out what was going wrong there but I finally got it working. Fixed some the buttons and removed the "forgot password" link because I'm not going to set that up, I don't think. At least not anytime soon. Added a bunch more stuff to the database, but still quite a ways from having that completed.
 -   **Tasks for Tomorrow:**
 
-## Day 32 -
+## Day 32 - 09/17/21
+60+ min
+
+-   **Project You Are Working On:** Intro to Comp Sci on edx
+-   **Progress Today:** Completed the first lecture
+-   **Tasks for Tomorrow:** Lecture 2? Unless I start a new project
+
+## Day 33 - 09/18/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 33 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Intro to Comp Sci on edx
+-   **Progress Today:** Got about halfway through the second lecture
+-   **Tasks for Tomorrow:** Finish lecture 2
 
 ## Day 34 -
 30+ min
