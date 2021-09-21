@@ -242,19 +242,19 @@
 -   **Progress Today:** Got about halfway through the second lecture
 -   **Tasks for Tomorrow:** Finish lecture 2
 
-## Day 34 -
+## Day 34 - 09/19/21
+60+ min
+
+-   **Project You Are Working On:** Intro to Comp Sci on edx
+-   **Progress Today:** Finished the second lecture and practice problems
+-   **Tasks for Tomorrow:** Unit quiz
+
+## Day 35 - 09/20/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 35 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tabletop DM Screen thing
+-   **Progress Today:** got the models for the db and the create new character page made
+-   **Tasks for Tomorrow:** i've got some new ideas for a homeschool plan/tracker I want to try. I need to learn more about how to use dates in python
 
 ## Day 36 -
 30+ min
