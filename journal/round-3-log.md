@@ -256,19 +256,12 @@
 -   **Progress Today:** got the models for the db and the create new character page made
 -   **Tasks for Tomorrow:** i've got some new ideas for a homeschool plan/tracker I want to try. I need to learn more about how to use dates in python
 
-## Day 36 -
-30+ min
+## Days 36 (09/21) and 37 (09/22) -
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 37 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tabletop game thing both days
+-   **Progress Today:** I keep forgetting to update this after I'm done coding for the night. Anyway, I've gotten a lot done on this project. Added flask migrate to the project (which would have been insanely helpful on the tarot journal project, ope) and got the character creation like 80% complete.
+-   **Tasks for Tomorrow:** create a view character page and finish up the character creation
 
 ## Day 38 -
 30+ min
