@@ -273,9 +273,9 @@
 ## Day 39 -
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** tabletop
+-   **Progress Today:** figured out the way I want to handle adding/updating inventory but I'm struggling with the db. I think I need to plan it out on paper the way I want it set up, so that i can stop having to use flask migrate. It keeps giving errors I don't understand
+-   **Tasks for Tomorrow:** in the meantime I'll work on the layout of the game home page I think
 
 ## Day 40 -
 30+ min
