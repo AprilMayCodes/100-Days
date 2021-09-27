@@ -270,26 +270,26 @@
 -   **Progress Today:** Broke it then fixed it then broke it again. realized i set up a lot of the one to many models backwards. I think. or they need to be many to many... at any rate the database needs some work. But for now character creation works and the view character page is done.
 -   **Tasks for Tomorrow:** Add starting inventory, and the combat stats section
 
-## Day 39 -
+## Day 39 - 09/24/21
 30+ min
 
 -   **Project You Are Working On:** tabletop
 -   **Progress Today:** figured out the way I want to handle adding/updating inventory but I'm struggling with the db. I think I need to plan it out on paper the way I want it set up, so that i can stop having to use flask migrate. It keeps giving errors I don't understand
 -   **Tasks for Tomorrow:** in the meantime I'll work on the layout of the game home page I think
 
-## Day 40 -
-30+ min
+## Day 40 - 09/25/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Considering learning to use PyQt to make my tarot journal app into a desktop app
+-   **Progress Today:** Watched some tutorials on pyqt and followed along to make a to-do app using designer
+-   **Tasks for Tomorrow:** Sqlite tutorial
 
-## Day 41 -
-30+ min
+## Day 41 - 09/26/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** PyQt tutorials
+-   **Progress Today:** Watched several tutorials, played around with the designer and did some reading. And came to the conclusion again that I don't want to do this, I think. Counting today because I made like the to do list and followed a couple other tutorials, but I've really got to stop with the tangents and focus on my current projects.
+-   **Tasks for Tomorrow:** Back to the tabletop!
 
 ## Day 42 -
 30+ min
