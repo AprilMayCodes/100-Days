@@ -291,12 +291,12 @@
 -   **Progress Today:** Watched several tutorials, played around with the designer and did some reading. And came to the conclusion again that I don't want to do this, I think. Counting today because I made like the to do list and followed a couple other tutorials, but I've really got to stop with the tangents and focus on my current projects.
 -   **Tasks for Tomorrow:** Back to the tabletop!
 
-## Day 42 -
+## Day 42 - 09/27/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tabletop thing
+-   **Progress Today:** just pseudo code at work. planning how i'm going to have the dice rolls work. I think I've got an idea but I'm not sure that it can be done without javascript and I just don't really know anything about ajax and using javascript in the pages. I think I'm gonna come back to it.
+-   **Tasks for Tomorrow:** plan what tables i'll need for the database
 
 ## Day 43 -
 30+ min
