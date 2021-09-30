@@ -298,19 +298,19 @@
 -   **Progress Today:** just pseudo code at work. planning how i'm going to have the dice rolls work. I think I've got an idea but I'm not sure that it can be done without javascript and I just don't really know anything about ajax and using javascript in the pages. I think I'm gonna come back to it.
 -   **Tasks for Tomorrow:** plan what tables i'll need for the database
 
-## Day 43 -
-30+ min
+## Day 43 - 09/28/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** tabletop
+-   **Progress Today:** working on redoing the database. I realize I had a lot of the one to many models set up right initially. I changed a lot of stuff around because I was confused about why I'd set it up that way.. I should have done some more digging, now I feel like I should start over
+-   **Tasks for Tomorrow:** more database bs blahhh
 
-## Day 44 -
-30+ min
+## Day 44 - 09/29/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** tabletop
+-   **Progress Today:** Fixed the database finally! I had to redo some of the routes and the pages I'd made but it's all running well now. Now I'm running into an issue making the popovers work. I'm certain it's a tiny simple fix about the popper.js thing not being added right but I just can't seem to get it right.
+-   **Tasks for Tomorrow:** Try to deal with bootstrap
 
 ## Day 45 -
 30+ min
