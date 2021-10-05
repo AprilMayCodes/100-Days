@@ -312,7 +312,371 @@
 -   **Progress Today:** Fixed the database finally! I had to redo some of the routes and the pages I'd made but it's all running well now. Now I'm running into an issue making the popovers work. I'm certain it's a tiny simple fix about the popper.js thing not being added right but I just can't seem to get it right.
 -   **Tasks for Tomorrow:** Try to deal with bootstrap
 
-## Day 45 -
+## Day 45 - 09/30/21
+60+ min
+
+-   **Project You Are Working On:** Tabletop
+-   **Progress Today:** Got the bootstrap issue fixed! Don't ask me how, I spent the hour copying and pasting different potential solutions basically. I think my bootstrap javascript wasnt set up right, but I'm not really sure what finally fixed it. What matters is, it's fixed!
+-   **Tasks for Tomorrow:** Figure out how to handle the starting inventory, update the create a character form.
+
+## Days 46-49 - 10/01/21, 10/02/21, 10/03/21, and 10/04/21
+60+ min each day
+
+-   **Project You Are Working On:** Tabletop and a healthcare thing
+-   **Progress Today:** I dont remember the specific breakdown but I've gotten the character creation very nearly complete, and I created a way to generate a settlement, and buildings within that settlement, and they'll be linked in the database sow you can revisit a city page and see the buildings that are within that city. I've got a plan to do the same for NPC's, I just haven't implemented it yet. Then these last two days I've been working on like a healthcare management system that I'm talking to my MIL about. It's honestly probably way outside the scope of my ability but I like having a real world application to be working on, and projects are how I've been learning so. On that I've got the base of the app set up, and I made the application factory/blueprints first this time so I don't have to copy/paste and edit a bunch of stuff later. Other than that I've just got some forms made up and am working on models for the db.
+-   **Tasks for Tomorrow:** Finish the patient model and set up a page to view the information. Make sure to import bootstrap properly so I can use the collapse feature, I think I'll want a lot of that. For tabletop, if I work on that also/instead: figure out a way to do dungeon generation
+
+## Day 50 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 51 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 52 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 53 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 54 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 55 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 56 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 57 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 58 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 59 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 60 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 61 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 62 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 63 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 64 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 65 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 66 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 67 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 68 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 69 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 70 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 71 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 72 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 73 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 74 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 75 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 76 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 77 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 78 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 79 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 80 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 81 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 82 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 83 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 84 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 85 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 86 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 87 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 88 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 89 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 90 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 91 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 92 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 93 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 94 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 95 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 96 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 97 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 98 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 99 -
+30+ min
+
+-   **Project You Are Working On:**
+-   **Progress Today:**
+-   **Tasks for Tomorrow:**
+
+## Day 100 -
 30+ min
 
 -   **Project You Are Working On:**
