@@ -326,19 +326,19 @@
 -   **Progress Today:** I dont remember the specific breakdown but I've gotten the character creation very nearly complete, and I created a way to generate a settlement, and buildings within that settlement, and they'll be linked in the database sow you can revisit a city page and see the buildings that are within that city. I've got a plan to do the same for NPC's, I just haven't implemented it yet. Then these last two days I've been working on like a healthcare management system that I'm talking to my MIL about. It's honestly probably way outside the scope of my ability but I like having a real world application to be working on, and projects are how I've been learning so. On that I've got the base of the app set up, and I made the application factory/blueprints first this time so I don't have to copy/paste and edit a bunch of stuff later. Other than that I've just got some forms made up and am working on models for the db.
 -   **Tasks for Tomorrow:** Finish the patient model and set up a page to view the information. Make sure to import bootstrap properly so I can use the collapse feature, I think I'll want a lot of that. For tabletop, if I work on that also/instead: figure out a way to do dungeon generation
 
-## Day 50 -
-30+ min
+## Day 50-51 - 10/05/21, and 10/06/21
+60+ min each
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tabletop and healthcare things
+-   **Progress Today:** Go the collapse feature working on the tabletop, and a pt view page set up. I was focusing too much on things that weren't necessary though, and need to figure out an actual layout before I go back to working on that. On the tabletop, I got the database set up to add an NPC but I was having issues with flask migrate so I decided I'd copy/paste the models and routes files after reverting to an older version. And that worked perfectly.. but I hadn't committed the changes that got the generate building/settlement buttons working. So back to the drawing board with that, hopefully it won't take me too long to figure it out.
+-   **Tasks for Tomorrow:** Add some sort of 'create game' option, so that I can go to a game home page from a regular home page. That way multiple games can be stored with one DM. Then fix the generators.
 
 ## Day 51 -
-30+ min
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tabletop
+-   **Progress Today:** Redid the collapse things, made a "choose game" starting page so there's a way to differentiate between games, and added the locations dropdown to the navbar. Then added a bunch more stuff to the db so I can check if the generators work.
+-   **Tasks for Tomorrow:** Finish creating generators and add models for Dungeon and OtherLocation
 
 ## Day 52 -
 30+ min
