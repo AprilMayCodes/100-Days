@@ -333,33 +333,26 @@
 -   **Progress Today:** Go the collapse feature working on the tabletop, and a pt view page set up. I was focusing too much on things that weren't necessary though, and need to figure out an actual layout before I go back to working on that. On the tabletop, I got the database set up to add an NPC but I was having issues with flask migrate so I decided I'd copy/paste the models and routes files after reverting to an older version. And that worked perfectly.. but I hadn't committed the changes that got the generate building/settlement buttons working. So back to the drawing board with that, hopefully it won't take me too long to figure it out.
 -   **Tasks for Tomorrow:** Add some sort of 'create game' option, so that I can go to a game home page from a regular home page. That way multiple games can be stored with one DM. Then fix the generators.
 
-## Day 51 -
+## Day 52 - 10/07/21
 60+ min
 
 -   **Project You Are Working On:** Tabletop
 -   **Progress Today:** Redid the collapse things, made a "choose game" starting page so there's a way to differentiate between games, and added the locations dropdown to the navbar. Then added a bunch more stuff to the db so I can check if the generators work.
 -   **Tasks for Tomorrow:** Finish creating generators and add models for Dungeon and OtherLocation
 
-## Day 52 -
+## Day 53 - 10/08/21
+60+ min
+
+-   **Project You Are Working On:** Tabletop
+-   **Progress Today:** Made generators for settlement and building, just need to add the form to the page for npc
+-   **Tasks for Tomorrow:** Finish npc generator and start on the dungeon and other location ones
+
+## Day 54 - 10/09/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 53 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 54 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Weekly Planner
+-   **Progress Today:** I got a new idea for how to set up a weekly planner. Since I can't figure out how to make the calendar module work how I want it to, I'm making just a week view that can be filled in and cleared at the end of the week. I got the week view set up and a database made, but I think I had the wrong idea about pulling the tasks from the database. Maybe I should do a table for each day? That seems like overkill though. I dunno, I'll put more thought into it and come back to it
+-   **Tasks for Tomorrow:** finish the npc generator
 
 ## Day 55 -
 30+ min
