@@ -354,12 +354,12 @@
 -   **Progress Today:** I got a new idea for how to set up a weekly planner. Since I can't figure out how to make the calendar module work how I want it to, I'm making just a week view that can be filled in and cleared at the end of the week. I got the week view set up and a database made, but I think I had the wrong idea about pulling the tasks from the database. Maybe I should do a table for each day? That seems like overkill though. I dunno, I'll put more thought into it and come back to it
 -   **Tasks for Tomorrow:** finish the npc generator
 
-## Day 55 -
-30+ min
+## Day 55 - 10/10/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Weekly Planner
+-   **Progress Today:** I had some new ideas at work so I didn't go back to the tabletop thing today. I used a for loop to create the 7 days and the 4 categories within each day. It's so much less code than typing out a div for each day. Also made the form work so tasks can be added to each category. Now I need to decide how I want the delete to work.
+-   **Tasks for Tomorrow:** Delete, on the weekly planner. Or npc generator for the tabletop thing
 
 ## Day 56 -
 30+ min
