@@ -361,19 +361,19 @@
 -   **Progress Today:** I had some new ideas at work so I didn't go back to the tabletop thing today. I used a for loop to create the 7 days and the 4 categories within each day. It's so much less code than typing out a div for each day. Also made the form work so tasks can be added to each category. Now I need to decide how I want the delete to work.
 -   **Tasks for Tomorrow:** Delete, on the weekly planner. Or npc generator for the tabletop thing
 
-## Day 56 -
+## Day 56 - 10/11/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Weekly planner
+-   **Progress Today:** Got a clear day button added but now the form isnt working right, like the page doesnt refresh the way I want it to when I add an item
+-   **Tasks for Tomorrow:** Fix the redirect/return of the weekview function
 
-## Day 57 -
-30+ min
+## Day 57 - 10/12/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** tabletop
+-   **Progress Today:** got started on the npc generator, but I need to add the random selection of the details for them. The layout is set up right with the popovers though and the form works fine.
+-   **Tasks for Tomorrow:** NPC generation
 
 ## Day 58 -
 30+ min
