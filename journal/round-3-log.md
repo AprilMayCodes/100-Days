@@ -372,8 +372,8 @@
 60+ min
 
 -   **Project You Are Working On:** tabletop
--   **Progress Today:** got started on the npc generator, but I need to add the random selection of the details for them. The layout is set up right with the popovers though and the form works fine.
--   **Tasks for Tomorrow:** NPC generation
+-   **Progress Today:** got started on the npc generator, but I need to add the random selection of the details for them. The layout is set up right with the popovers though and the form works fine. *update* finished the NPC generation. it could look nicer but it all works!
+-   **Tasks for Tomorrow:** Either a new game button or the dungeon generation
 
 ## Day 58 -
 30+ min
