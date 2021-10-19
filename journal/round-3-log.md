@@ -375,38 +375,31 @@
 -   **Progress Today:** got started on the npc generator, but I need to add the random selection of the details for them. The layout is set up right with the popovers though and the form works fine. *update* finished the NPC generation. it could look nicer but it all works!
 -   **Tasks for Tomorrow:** Either a new game button or the dungeon generation
 
-## Day 58 -
-30+ min
+## Day 58 - 10/13/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tabletop
+-   **Progress Today:** Got the newgame option but I can't get a current_game_id to work with the current_user. I'm not sure how else to keep track of the details for just one game.
+-   **Tasks for Tomorrow:** Figure out a current_game setting
 
-## Day 59 -
-30+ min
+## Days 59 and 60 - 10/14/21 and 10/15/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** tabletop
+-   **Progress Today:** Between yesterday and today I fixed the locations dropdown to only show on the game home page so it will only include locations for that particular game. I've got a lot of work to do as far as allowing for seperate users I think, but for right now it can be seperated by game and new games can be created. Also got the notes section added. The dungeon generator is daunting, I'm holding off on it for now, but I'm chipping away at my ideas little by little to figure out how I'm gonna set it up
+-   **Tasks for Tomorrow:** Do more thinking on the dungeon generation. Maybe start formatting?
 
-## Day 60 -
-30+ min
+## Day 61 - 10/16/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Tabletop
+-   **Progress Today:** Made a bunch of the tables I'll need for dungeon generation.
+-   **Tasks for Tomorrow:** Dungeon generation still
 
-## Day 61 -
-30+ min
+## Days 62 and 63 - 10/17/21 and 10/18/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 62 -
-30+ min
-
--   **Project You Are Working On:**
+-   **Project You Are Working On:** watching kivy tutorial. these have been cheat days, i've lost some motivation. 
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
