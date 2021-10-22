@@ -399,44 +399,15 @@
 ## Days 62 and 63 - 10/17/21 and 10/18/21
 60+ min
 
--   **Project You Are Working On:** watching kivy tutorial. these have been cheat days, i've lost some motivation. 
+-   **Project You Are Working On:** watching kivy tutorial. these have been cheat days, i've lost some motivation.
 -   **Progress Today:**
 -   **Tasks for Tomorrow:**
 
-## Day 63 -
-30+ min
+## Days 64 through 67 - 10/19/21 to 10/22/21
+60+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 64 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 65 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 66 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 67 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** I've been working, I promise! Days 64 and 65 I was following a Kivy tutorial. I've gotten maybe a quarter of the way through it before deciding I wanted to buy the full python tutorial on Udemy, so that's what I've been working on for days 66 and 67.
+-   **Tasks for Tomorrow:** complete the pizza objects project
 
 ## Day 68 -
 30+ min
