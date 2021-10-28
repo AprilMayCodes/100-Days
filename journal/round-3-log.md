@@ -409,47 +409,12 @@
 -   **Project You Are Working On:** I've been working, I promise! Days 64 and 65 I was following a Kivy tutorial. I've gotten maybe a quarter of the way through it before deciding I wanted to buy the full python tutorial on Udemy, so that's what I've been working on for days 66 and 67.
 -   **Tasks for Tomorrow:** complete the pizza objects project
 
-## Day 68 -
+## Day 68 through 73 - 10/23/21 to 10/28/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 69 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 70 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 71 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 72 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
-
-## Day 73 -
-30+ min
-
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Following along with a coding course on Udemy, and working on creating my Tarot Journal app with Kivy.
+-   **Progress Today:** I'm like halfway through the course, but Ive been sidetracked with my new project. So far I've gotten a lot of the navigation down, and the ability to create and view journal entries.
+-   **Tasks for Tomorrow:** I'm having a similar issue that I had with the dnd thing where the database is accepting the new info but not like, updating in the list thats shown. Try to figure that out, otherwise get started on the card sections I think. I've also got another flask homeschool organizer idea I'm thinking of getting started on
 
 ## Day 74 -
 30+ min
