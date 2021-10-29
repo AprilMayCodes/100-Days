@@ -416,12 +416,12 @@
 -   **Progress Today:** I'm like halfway through the course, but Ive been sidetracked with my new project. So far I've gotten a lot of the navigation down, and the ability to create and view journal entries.
 -   **Tasks for Tomorrow:** I'm having a similar issue that I had with the dnd thing where the database is accepting the new info but not like, updating in the list thats shown. Try to figure that out, otherwise get started on the card sections I think. I've also got another flask homeschool organizer idea I'm thinking of getting started on
 
-## Day 74 -
+## Day 74 - 10/29/21
 30+ min
 
--   **Project You Are Working On:**
--   **Progress Today:**
--   **Tasks for Tomorrow:**
+-   **Project You Are Working On:** Homeschool Organizer and Kivy Tarotjournal.
+-   **Progress Today:** I've given up on the database updating issue for now. It adds the journal entry, it just wont show up in the list until the app is closed and repoened and I can't figure out why. So I moved on to the cards section and got that mostly done. I'd like to add images but I know I'm going to struggle with formatting it. I also made a homeschool organizer thing, that keeps track of the different curriculum we're using and lists the lessons.
+-   **Tasks for Tomorrow:** Add an 'add' option to the homeschool planner, so I can add new lessons from the site itself. 
 
 ## Day 75 -
 30+ min
