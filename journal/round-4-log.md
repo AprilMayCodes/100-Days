@@ -26,7 +26,9 @@
 
 ## Day 6: Friday December 17, 2021
 -   **Today's Progress**: Remade the command line calculator for the day 10 project
+-   **Link to tweet:** [Round 4 Day 6](https://twitter.com/AprilMayCodes/status/1472424579461177345)
 
 ## Day 7: Saturday December 18, 2021
 -   **Today's Progress**: Redid the blackjack game, with the tutorial, and the higher-lower game on my own.
 -   **Thoughts:** I struggled a bit with the blackjack one. I think I was trying to do too much within one function, I should have broken it down more. Ended up following the tutorial to finish that one, but I was able to do the other from scratch.
+-   **Link to tweet:** [Round 4 Day 7](https://twitter.com/AprilMayCodes/status/1472425848796073984)
