@@ -1,4 +1,4 @@
-<h1 align="center"> # 100DaysofCode Round 4</h1>
+<h1 align="center"> 100DaysofCode Round 4</h1>
 
 ## Day 1: Sunday December 12, 2021
 -   **Today's Progress** Made a tkinter app to post to my twitter.
@@ -14,3 +14,19 @@
 -   **Today's Progress**: Added some color, text wrapping, and clearing the entry boxes after a tweet is submitted.
 -   **Thoughts:** I'm not good at design, like at all. It's an area I really want to improve.
 -   **Link to tweet:** [Round 4 Day 3](https://twitter.com/AprilMayCodes/status/1470827448606642185)
+
+## Day 4: Wednesday December 15, 2021
+-   **Today's Progress**: Accidentally deleted all of my projects.. All of them. I don't want to talk about it.
+-   **Thoughts:** Well.. time to start rebuilding I guess. Starting organizing my code from replit to put on here.
+-   **Link to tweet:** [Round 4 Day 4](https://twitter.com/AprilMayCodes/status/1471128842131673088)
+
+## Day 5: Thursday December 16, 2021
+-   **Today's Progress**: Reviewed more of the beginner command line projects from the course
+-   **Link to tweet:** [Round 4 Day 5](https://twitter.com/AprilMayCodes/status/1471735516508872704)
+
+## Day 6: Friday December 17, 2021
+-   **Today's Progress**: Remade the command line calculator for the day 10 project
+
+## Day 7: Saturday December 18, 2021
+-   **Today's Progress**: Redid the blackjack game, with the tutorial, and the higher-lower game on my own.
+-   **Thoughts:** I struggled a bit with the blackjack one. I think I was trying to do too much within one function, I should have broken it down more. Ended up following the tutorial to finish that one, but I was able to do the other from scratch.
