@@ -32,3 +32,8 @@
 -   **Today's Progress**: Redid the blackjack game, with the tutorial, and the higher-lower game on my own.
 -   **Thoughts:** I struggled a bit with the blackjack one. I think I was trying to do too much within one function, I should have broken it down more. Ended up following the tutorial to finish that one, but I was able to do the other from scratch.
 -   **Link to tweet:** [Round 4 Day 7](https://twitter.com/AprilMayCodes/status/1472425848796073984)
+
+## Day 8: Sunday December 19, 2021
+-  **Today's Progress**: Completed projects 15 and 16 without the tutorial. The Coffee Machine and then the OOP version of the Coffee Machine
+-  **Thoughts**: I rushed through these sections before and it led to me struggling a lot with classes and OOP. I'm a lot more comfortable after slowing down and having redone this project. I'm feeling a lot better about using classes now.
+-  **Link to tweet**: [Round 4 Day 8](https://twitter.com/AprilMayCodes/status/1472529432523022339)
