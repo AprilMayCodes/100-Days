@@ -46,3 +46,7 @@
 -  **Today's Progress**: Followed the tutorial for the Hirst Painting project
 -  -  **Link to tweet**: [Round 4 Days 9 and 10](https://twitter.com/AprilMayCodes/status/1473910422457704457)
 
+## Day 11: Wednesday December 22, 2021
+-  **Today's Progress**: Started rebuilding my tarot-journal. Got the basic flask setup done, then I got sidetracked with astrology stuff. Played around with the flatlib libary and figured out how to create charts and access the data from them
+-  **Thoughts**: Spent a lot of time fighting with the library because the pyswisseph wasn't finding a file it needed... I'm thinking the error had something to do with the virtual environment, and I'm fairly sure my bandaid fix won't work as a permanent solution, but for now it's doing what I want it to.
+-  **Link to tweet**: [Round 4 Day 8](https://twitter.com/AprilMayCodes/status/1473987337851969541)
