@@ -37,3 +37,12 @@
 -  **Today's Progress**: Completed projects 15 and 16 without the tutorial. The Coffee Machine and then the OOP version of the Coffee Machine
 -  **Thoughts**: I rushed through these sections before and it led to me struggling a lot with classes and OOP. I'm a lot more comfortable after slowing down and having redone this project. I'm feeling a lot better about using classes now.
 -  **Link to tweet**: [Round 4 Day 8](https://twitter.com/AprilMayCodes/status/1472529432523022339)
+
+## Day 9: Monday December 20, 2021
+-  **Today's Progress**: Followed the tutorial for the Quiz game
+-  -  **Link to tweet**: [Round 4 Days 9 and 10](https://twitter.com/AprilMayCodes/status/1473910422457704457)
+
+## Day 10: Tuesday December 21, 2021
+-  **Today's Progress**: Followed the tutorial for the Hirst Painting project
+-  -  **Link to tweet**: [Round 4 Days 9 and 10](https://twitter.com/AprilMayCodes/status/1473910422457704457)
+
