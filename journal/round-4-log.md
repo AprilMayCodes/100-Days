@@ -51,12 +51,12 @@
 -  **Thoughts**: Spent a lot of time fighting with the library because the pyswisseph wasn't finding a file it needed... I'm thinking the error had something to do with the virtual environment, and I'm fairly sure my bandaid fix won't work as a permanent solution, but for now it's doing what I want it to.
 -  **Link to tweet**: [Round 4 Day 11](https://twitter.com/AprilMayCodes/status/1473987337851969541)
 
-## Day 11: Thursday December 23, 2021
+## Day 12: Thursday December 23, 2021
 -  **Today's Progress**: Set up a login and register template and started choosing some colors for them.
 -  **Thoughts**: I want to do this without using any templates, which means I'll be spending a long time on these probably. I want it to be responsive and web design in general is just not my strong suit. Got a lot to learn!
 -  **Link to tweet**: [Round 4 Day 12](https://twitter.com/AprilMayCodes/status/1474299144521109514)
 
-## Day 11: Friday December 24, 2021
+## Day 13: Friday December 24, 2021
 -  **Today's Progress**: Got a card centered in the page and added a shadow. It's not much but getting the card the right size and positioned how I wanted took me longer than expected
 -  **Thoughts**: It occurrs to me that this would be easier if I'd sketched out what I want it to look like beforehand.
 
