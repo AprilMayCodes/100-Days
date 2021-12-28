@@ -60,3 +60,8 @@
 -  **Today's Progress**: Got a card centered in the page and added a shadow. It's not much but getting the card the right size and positioned how I wanted took me longer than expected
 -  **Thoughts**: It occurrs to me that this would be easier if I'd sketched out what I want it to look like beforehand.
 
+## Day 14: Sunday December 26, 2021
+-  **Today's Progress**: Set up the forms.py file and made the LoginForm and RegisterForm
+
+## Day 15: Monday December 27, 2021
+-  **Today's Progress**: Made the login form template, took me a min to get it formatted how I want. Still haven't decided exactly how I'm going to do the register form, if I want to ask for all the info in it or have just an email and password to register and then an 'update' option where you can add the rest of the details.
