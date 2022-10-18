@@ -1,5 +1,9 @@
 <h1 align="center"> #100DaysofCode Round 4</h1>
 
+**Start date**: 12/12/21
+**End date**: 12/31/21
+**18 Days**
+
 ## Day 1: Sunday December 12, 2021
 -   **Today's Progress** Made a tkinter app to post to my twitter.
 -   **Thoughts:** It's ugly and adorable lol.
@@ -70,7 +74,7 @@
 -  **Today's Progress**: Set up the register form and started playing around with the formatting. Got an API to get the UTC offset based on the coordinates, so I can use that along with the other one to get the coordinates from the location name or zip code. Created get_coordinates and get_offset functions and made sure I understood how the APIs worked.
 
 ## Day 17: Wednesday December 29, 2021
--  **Today's Progress**: Set up the database and finished setting up the login and register pages. Registering will generate and save a birth chart for the user. That info will be used to compare to the daily pages to check for aspects, once I get around to setting that up. 
+-  **Today's Progress**: Set up the database and finished setting up the login and register pages. Registering will generate and save a birth chart for the user. That info will be used to compare to the daily pages to check for aspects, once I get around to setting that up.
 
 ## Day 18: Friday December 31, 2021
 -  **Today's Progress**: Took a day off when I had to go to the hospital for dehydration. Back with a vengeance today! Spent a lot of time messing with the css to make the registtration page responsive. Created more problems than I solved, but also figured out (I think) the way to fix them. There's a few changes I need to make to the registration form anyway, with the DOB and Birth time entry, so it doesn't have to be entered formatted properly, making it a little more user-friendly. Gonna fiddle with it some more tomorrow.
