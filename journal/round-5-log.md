@@ -24,8 +24,4 @@
 -   **Project You Are Working On** Homeschool Manager
 -   **Today's Progress** Nada. Spent most of the hour arguing with the database. I thought adding to the user a current_lesson_id column linking it to the lessons table would work, but I couldn't get flask migrate to actually update the database.
 -   **Tasks For Tomorrow** Start a new project, I think.
--   **Link to tweet** [Round 5 Day 2](https://twitter.com/AprilMayCodes/status/1582896836506894337)
-
-
-
-https://twitter.com/AprilMayCodes/status/1583613048828223489
+-   **Link to tweet** [Round 5 Day 3](https://twitter.com/AprilMayCodes/status/1583613048828223489)
