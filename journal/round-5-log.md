@@ -1,4 +1,4 @@
-<h1 align="center"> #100DaysofCode Round 4</h1>
+<h1 align="center"> #100DaysofCode Round 5</h1>
 
 **Start date**: 10/18/2022
 **End date**: TBD
@@ -19,3 +19,13 @@
 -   **Today's Progress** I made it pretty! Well, pretty ish. It looks good enough lol. I also created a quiz route and have started on the logic to select just the current lesson, but I'm kind of stumped. I think there's a better way to set up the database but I'm not really sure what that is yet.
 -   **Tasks For Tomorrow** Work more on the quiz route
 -   **Link to tweet** [Round 5 Day 2](https://twitter.com/AprilMayCodes/status/1582896836506894337)
+
+## Day 3: Thursday, October 20, 2022
+-   **Project You Are Working On** Homeschool Manager
+-   **Today's Progress** Nada. Spent most of the hour arguing with the database. I thought adding to the user a current_lesson_id column linking it to the lessons table would work, but I couldn't get flask migrate to actually update the database.
+-   **Tasks For Tomorrow** Start a new project, I think.
+-   **Link to tweet** [Round 5 Day 2](https://twitter.com/AprilMayCodes/status/1582896836506894337)
+
+
+
+https://twitter.com/AprilMayCodes/status/1583613048828223489
