@@ -27,9 +27,9 @@
 -   **Link to tweet** [Round 5 Day 3](https://twitter.com/AprilMayCodes/status/1583613048828223489)
 
 ## Day 4: Friday, October 21, 2022
--   **Project You Are Working On**
--   **Today's Progress**
--   **Tasks For Tomorrow**
+-   **Project You Are Working On** kivy Tarot journal and Homeschool Manager
+-   **Today's Progress** started a new kivy project, got login and register functionality made before realizing I don't want to figure out the database stuff right now, so i switched back to the Homeschool Manager. I figured out how to get the current lessons on the quiz page, and am stuck on styling the page now. Having issues with the bootstrap accordion, which isn't a huge deal because I'm not certain an accordion is what I want to go with anyway. Maybe just cards.. we'll see.
+-   **Tasks For Tomorrow** Will work on styling the quiz page more tomorrow, and maybe add to the tarot app.
 
 ## Day 5:
 -   **Project You Are Working On**
