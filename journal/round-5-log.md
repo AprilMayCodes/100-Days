@@ -25,3 +25,63 @@
 -   **Today's Progress** Nada. Spent most of the hour arguing with the database. I thought adding to the user a current_lesson_id column linking it to the lessons table would work, but I couldn't get flask migrate to actually update the database.
 -   **Tasks For Tomorrow** Start a new project, I think.
 -   **Link to tweet** [Round 5 Day 3](https://twitter.com/AprilMayCodes/status/1583613048828223489)
+
+## Day 4: Friday, October 21, 2022
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 5:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 6:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 7:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 8:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 9:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 10:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 11:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 12:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 13:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 14:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
+
+## Day 15:
+-   **Project You Are Working On**
+-   **Today's Progress**
+-   **Tasks For Tomorrow**
