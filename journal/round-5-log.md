@@ -31,15 +31,15 @@
 -   **Today's Progress** started a new kivy project, got login and register functionality made before realizing I don't want to figure out the database stuff right now, so i switched back to the Homeschool Manager. I figured out how to get the current lessons on the quiz page, and am stuck on styling the page now. Having issues with the bootstrap accordion, which isn't a huge deal because I'm not certain an accordion is what I want to go with anyway. Maybe just cards.. we'll see.
 -   **Tasks For Tomorrow** Will work on styling the quiz page more tomorrow, and maybe add to the tarot app.
 
-## Day 5:
--   **Project You Are Working On**
--   **Today's Progress**
+## Day 5: Saturday, October 22, 2022
+-   **Project You Are Working On** Homeschool manager
+-   **Today's Progress** It's functional! And almost pretty, lol. I'm really proud of myself, I thought this would take me several months to figure out. I got the progress bars on the front page working, and you can add a percentage for each subject on the quiz page, which will add stars if the percentage is over 90. Once you have 3 stars, that subject will be completed and it will move on to the next one. Once every topic in a subject is completed, the progress bar resets to 0 and it assigns you that subject in the next grade.
 -   **Tasks For Tomorrow**
 
-## Day 6:
--   **Project You Are Working On**
--   **Today's Progress**
--   **Tasks For Tomorrow**
+## Day 6: Sunday, October 23, 2022
+-   **Project You Are Working On** EHR
+-   **Today's Progress** Decided to ditch the homeschool thing and work on creating an EHR. Working with one had me wondering if I could build something like it, so now here we are. It will be very basic I think, but I think there's a lot that is within my capabilities. Got practice and user registration done today. And I'm styling as I go, so it even looks pretty so far. Pretty proud of myself
+-   **Tasks For Tomorrow** Create the home page and the ability to add patients
 
 ## Day 7:
 -   **Project You Are Working On**
