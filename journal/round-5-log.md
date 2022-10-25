@@ -41,10 +41,10 @@
 -   **Today's Progress** Decided to ditch the homeschool thing and work on creating an EHR. Working with one had me wondering if I could build something like it, so now here we are. It will be very basic I think, but I think there's a lot that is within my capabilities. Got practice and user registration done today. And I'm styling as I go, so it even looks pretty so far. Pretty proud of myself
 -   **Tasks For Tomorrow** Create the home page and the ability to add patients
 
-## Day 7:
--   **Project You Are Working On**
--   **Today's Progress**
--   **Tasks For Tomorrow**
+## Day 7: Monday, October 24,2022
+-   **Project You Are Working On** EHR
+-   **Today's Progress** Did some more styling. I'm actually starting to like it lol. And it turns out in my rush to finish the login and registration stuff, I forgot to add a password field to the register form, ope. So I got that fixed, make sure registration and logging in works the right way, and created a practice home page complete with navbar. Okay, bootstrap made the navbar. But i put it in the right place!
+-   **Tasks For Tomorrow** add more functionality to the home page and the ability to add patients
 
 ## Day 8:
 -   **Project You Are Working On**
