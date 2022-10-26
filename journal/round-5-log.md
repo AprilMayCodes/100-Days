@@ -46,10 +46,10 @@
 -   **Today's Progress** Did some more styling. I'm actually starting to like it lol. And it turns out in my rush to finish the login and registration stuff, I forgot to add a password field to the register form, ope. So I got that fixed, make sure registration and logging in works the right way, and created a practice home page complete with navbar. Okay, bootstrap made the navbar. But i put it in the right place!
 -   **Tasks For Tomorrow** add more functionality to the home page and the ability to add patients
 
-## Day 8:
--   **Project You Are Working On**
--   **Today's Progress**
--   **Tasks For Tomorrow**
+## Day 8: Tuesday, October 25, 2022
+-   **Project You Are Working On** EHR
+-   **Today's Progress** not much. Started on the add patient form and realized it's going to be a lot of work to get it set up how I want. Not letting that discourage me though! Will start creating the html tomorrow.
+-   **Tasks For Tomorrow** Add patient
 
 ## Day 9:
 -   **Project You Are Working On**
