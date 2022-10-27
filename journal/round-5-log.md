@@ -51,10 +51,10 @@
 -   **Today's Progress** not much. Started on the add patient form and realized it's going to be a lot of work to get it set up how I want. Not letting that discourage me though! Will start creating the html tomorrow.
 -   **Tasks For Tomorrow** Add patient
 
-## Day 9:
--   **Project You Are Working On**
--   **Today's Progress**
--   **Tasks For Tomorrow**
+## Day 9: Wednesday, October 26, 2022
+-   **Project You Are Working On** EHR
+-   **Today's Progress** Added routes for the 'patients' page and the 'add patient' page and started styling the form how i want it. need to add the insurance information to it still, but it looks pretty neat. 
+-   **Tasks For Tomorrow** Add patient, still
 
 ## Day 10:
 -   **Project You Are Working On**
