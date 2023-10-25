@@ -20,7 +20,8 @@ You can follow my progress through the challenge:
 * [100 Days of (Learning To) Code Round 2 - 19 Days](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-2-log.md)
 * [100 Days of (Learning To) Code Round 3 - 74 Days](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-3-log.md)
 * [100 Days of Code Round 4 - 18 Days](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-4-log.md)
-* [100 Days of Code Round 5](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-5-log.md)
+* [100 Days of Code Round 5 - 9 Days](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-5-log.md)
+* [100 Days of Code Round 5 (This is the one, I can feel it!)](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-6-log.md)
 * [Blog](https://aprilmaycodes.tumblr.com)
 * [Twitter](https://twitter.com/AprilMayCodes)
 
