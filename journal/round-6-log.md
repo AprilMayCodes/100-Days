@@ -23,19 +23,19 @@
 -   **Tasks For Tomorrow** Get the seeds added to the hotbar. Should work the same as the tools, but will be a bit more difficult because the amount of seeds varies and there are times when you'll have no seeds, but I don't want that hotbar slot to be able to be filled with something else.
 -   **Link to tweet** [Round 6 Day 2](https://twitter.com/AprilMayCodes/status/1718113247809745108)
 
-###  Day 3 - 
+###  Day 3 - 10/27/2023
 -   **Project** Pydew Valley
 -   **Today's Progress** Started a youtube channel! Also decided I am going to go ahead and refactor my code so I'll be starting over. Worked on just the basic game setup today. Will probably have that video up tomorrow. In the meantime, you can check out my introductory video [here](https://youtu.be/gJKbW5L-WCk)
 -   **Thoughts:** Excited and nervous about doing a code along thing. Especially since I'm always starting and stopping projects. This will give me reason to keep going, having an audience (assuming I get an audience lol). We'll see how it goes.
 -   **Tasks For Tomorrow** Get the base of my code refactored (game loop, cursor sprite, title menu) and get my second video (first actual code along video) uploaded
 -   **Link to tweet** [Round 6 Day 3](https://twitter.com/AprilMayCodes/status/1718114717913276557)
 
-###  Day 4 - 
+###  Day 4 - 10/28/2023
 -   **Project** Pydew Valley
--   **Today's Progress** 
--   **Thoughts:** 
--   **Tasks For Tomorrow**
--   **Link to tweet**
+-   **Today's Progress** Started refactoring to use a game state manager. Got the title screen done and added the custom cursor in. Got my second video posted! Check it out [here](https://www.youtube.com/watch?v=hsMZmaQBf5E&t=1s)
+-   **Thoughts:** Making the video is the part that takes the longest, because I spend so much time re recording and stuff. Gotta find a better way of doing it, probably recording small clips at a time so if I fuck up I dont have to start all over. As far as the code goes, though, it was smooth sailing today.
+-   **Tasks For Tomorrow** Maybe add the load save screen in. That won't take long. Then work on adding in the player class and recreating the game world.
+-   **Link to tweet** [Round 6 Day 4](https://twitter.com/AprilMayCodes/status/1718421788659458072)
 
 ###  Day 5 - 
 -   **Project** Pydew Valley
