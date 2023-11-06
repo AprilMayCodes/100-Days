@@ -37,40 +37,38 @@
 -   **Tasks For Tomorrow** Maybe add the load save screen in. That won't take long. Then work on adding in the player class and recreating the game world.
 -   **Link to tweet** [Round 6 Day 4](https://twitter.com/AprilMayCodes/status/1718421788659458072)
 
-###  Day 5 - 
+###  Day 5 - 10/29/2023
 -   **Project** Pydew Valley
--   **Today's Progress** 
--   **Thoughts:** 
--   **Tasks For Tomorrow**
--   **Link to tweet**
+-   **Today's Progress** Got the code to show the player on the screen
+-   **Thoughts:** Took way longer than it should have, because I already have the player class created. I had to figure out which bits were necessary and which to omit until further into the development.
+-   **Tasks For Tomorrow** Get the character moving.
+-   **Link to tweet** [Round 6 Day 5](https://twitter.com/AprilMayCodes/status/1719146470777983203)
 
-###  Day 6 - 
+###  Day 6 - 11/1/2023
 -   **Project** Pydew Valley
--   **Today's Progress** 
--   **Thoughts:** 
--   **Tasks For Tomorrow**
--   **Link to tweet**
+-   **Today's Progress** Got the character moving, and then the hotbar added with the ability to cycle through the options in the hotbar, or cycle through the selected tool. Confirmed my tool use animation is working as expected.
+-   **Thoughts:** Smooth sailing, aside from a few typos
+-   **Tasks For Tomorrow** New video on creating the map in tiled, and then creating the farm map in pygame.
+-   **Link to tweet** [Round 6 Day 6](https://twitter.com/AprilMayCodes/status/1719903018236485805)
 
-###  Day 7 - 
+###  Day 7 - 11/2/2023
 -   **Project** Pydew Valley
--   **Today's Progress** 
--   **Thoughts:** 
--   **Tasks For Tomorrow**
--   **Link to tweet**
+-   **Today's Progress** got the farm map added to the game, with everything but the stumps, because I haven't created the class for them yet. Also uploaded a new video, going briefly over how I created my map in Tiled and then how to put the tiled map in the game.
+-   **Thoughts:** Everythings going well still, I think
+-   **Tasks For Tomorrow** Get the stumps added, and add collisions
 
-###  Day 8 - 
+###  Day 8 - 11/3/2023
 -   **Project** Pydew Valley
--   **Today's Progress** 
--   **Thoughts:** 
--   **Tasks For Tomorrow**
--   **Link to tweet**
+-   **Today's Progress** Got the collisions and stumps added, and the ability to chop down trees
+-   **Thoughts:** had a bit of an issue, where the stumps were being created, I know because I was running into them. However, the images just weren't appearing on the screen. I think it had something to do with where I called super().__init__ in the stump class, whatever it was, when I copied the Tree class, pasted it in and changed the name to Stump, it worked so *shrug*.
+-   **Tasks For Tomorrow** Add the inventory menu, and a way to display the wood that's added to the inventory when we chop down a tree
 
-###  Day 9 - 
+###  Day 9 - 11/4/2023
 -   **Project** Pydew Valley
--   **Today's Progress** 
--   **Thoughts:** 
--   **Tasks For Tomorrow**
--   **Link to tweet**
+-   **Today's Progress** Got the inventory added and confirmed wood was added to it 
+-   **Thoughts:** It's gonna take me a minute to figure out how to get the plants added to the inventory. I've got to first add planting things, so that I can attempt harvesting them and make sure it works. but before I can add planting things I've gt to get a way to add seeds to the inventory. Which I can jsut do by having the character start the game with some in their inventory, but I considered working on the town map next and adding the ability to buy seeds. I think just placing some in the inventory to start is the right route. Just to get things starteed and make sure it's all working well, then I'll work on the shop and stuff later.
+-   **Tasks For Tomorrow** Add the ability to till soil, plant and water plants, and harvest them
+
 
 ###  Day 10 - 
 -   **Project** Pydew Valley
