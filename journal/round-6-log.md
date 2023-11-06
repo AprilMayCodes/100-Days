@@ -70,12 +70,12 @@
 -   **Tasks For Tomorrow** Add the ability to till soil, plant and water plants, and harvest them
 
 
-###  Day 10 - 
+###  Day 10 - 11/5/2023
 -   **Project** Pydew Valley
--   **Today's Progress** 
--   **Thoughts:** 
--   **Tasks For Tomorrow**
--   **Link to tweet**
+-   **Today's Progress** Got the ability to add things to the hotbar and take them out of it!
+-   **Thoughts:** Ran into a couple bugs, mainly from moving too fast. I think it's looking pretty good so far.
+-   **Tasks For Tomorrow** Add the ability to till soil and plant things, and maybe harvesting them as well
+-   **Link to tweet** [Round 6 Day 10](https://twitter.com/AprilMayCodes/status/1721442738694914164)
 
 ###  Day 11 - 
 -   **Project** Pydew Valley
