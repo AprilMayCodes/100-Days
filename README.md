@@ -22,7 +22,7 @@ You can follow my progress through the challenge:
 * [100 Days of Code Round 4 - 18 Days](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-4-log.md)
 * [100 Days of Code Round 5 - 9 Days](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-5-log.md)
 * [100 Days of Code Round 6 (This is the one, I can feel it!)](https://github.com/AprilBlossoms/100-Days/blob/master/journal/round-6-log.md)
-* [Blog](https://aprilmaycodes.com/blog)
+* [Blog](https://aprilmaycodes.com/blog?blogcategory=100DaysOfCode)
 * [Twitter](https://twitter.com/AprilMayCodes)
 * [Youtube](https://www.youtube.com/@aprilmaycodes)
 
