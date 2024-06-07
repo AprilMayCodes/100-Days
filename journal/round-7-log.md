@@ -12,7 +12,7 @@ Welcome to my seventh attempt at the #100DaysOfCode challenge! This repository w
 
 | Day | Date       | Focus                | My Progress               | Challenges                | Lessons Learned               |
 |-----|------------|-----------------------|---------------------------|---------------------------|---------------------------|
-| 1   | 06/06/2024 | Tarot and Astrology Flask App | Progress will go here | Challenges Will Go Here | Lessons Learned will go here |
+| 1   | 06/06/2024 | Tarot and Astrology Flask App | Got the login page to redirect to settings if the user hasn't set up their initial profile and notification settings. | Struggled for a bit, figuring out how to handle the individual notification settings, if the user has opted not to receive either in app or email notifications. Decided to just check if they have notifications enabled when handling notification creation, and then if they do we'll then check if they want that particular type of notification. That should work. I guess we'll see when we get to handling notifications | Sometimes simpler is better lol |
 | 2   | 06/07/2024 | | | | |
 | 3   | 06/08/2024 |                      |                           |                           |                           |
 | 4   | 06/09/2024 |                      |                           |                           |                           |
