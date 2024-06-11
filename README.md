@@ -11,6 +11,7 @@
 
 * [Responsive Web Design certification from freeCodeCamp](https://www.freecodecamp.org/certification/aprilblossoms/responsive-web-design)
 * [Math Game](https://aprilblossoms.github.io/Math-Game/)
+* [Flask Project Skeleton Creator](https://github.com/AprilBlossoms/flask-skeleton-project-creator)
 
 ## Journal
 
