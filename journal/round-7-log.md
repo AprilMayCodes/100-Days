@@ -37,8 +37,8 @@ Welcome to my seventh attempt at the #100DaysOfCode challenge! This repository w
 | 23  | 06/28/2024 | pyStructify |didn't make much progress on the project today. Spent most of my time researching the proper way to do docstrings. Couldnt really find a consensus|                           |                           |
 | 24  | 06/29/2024 |pyStructify|finalized the walkthrough. Had to do it with a button press instead of immediately on start up the first time, but I think thats more user friendly anyway|                           |                           |
 | 25  | 06/30/2024 |pystructify|went through every page of my app and made a list of changes (style stuff, typos etc) that need to be made. got started working on that. The home page is officially done!|                           |                           |
-| 26  | 07/01/2024 |pyStructify styling|working through my list, adding styling and reformatting the code.|                           |                           |
-| 27  | 07/02/2024 |                      |                           |                           |                           |
+| 26  | 07/01/2024 |pyStructify refactoring|working through my list, adding styling and reformatting the code.|                           |                           |
+| 27  | 07/02/2024 |pyStructify refactoring|got a couple more pages done, styling stuff added, docstrings and refactoring done etc|no real challenges. Just the realization that I'm not quite as close to having it completed as I initially thought. a bummer, but I'll get there eventually!||
 | 28  | 07/03/2024 |                      |                           |                           |                           |
 | 29  | 07/04/2024 |                      |                           |                           |                           |
 | 30  | 07/05/2024 |                      |                           |                           |                           |
