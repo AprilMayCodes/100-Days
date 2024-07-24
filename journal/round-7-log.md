@@ -59,7 +59,7 @@ Welcome to my seventh attempt at the #100DaysOfCode challenge! This repository w
 | 45  | 07/20/2024 |                      |                           |                           |                           |
 | 46  | 07/21/2024 |                      |                           |                           |                           |
 | 47  | 07/22/2024 |                      |                           |                           |                           |
-| 48  | 07/23/2024 |                      |                           |                           |                           |
+| 48  | 07/23/2024 | Pokemon Text Based Game | used pokeapi to get the data for gen 1 pokemon in a dictionary, including their moves, evolution info, and locations for encounters. Then wrote a script to automate creating a class for all 151 pokemon that inherits from a base pokemon class. |                           |                           |
 | 49  | 07/24/2024 |                      |                           |                           |                           |
 | 50  | 07/25/2024 |                      |                           |                           |                           |
 | 51  | 07/26/2024 |                      |                           |                           |                           |
